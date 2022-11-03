@@ -1,0 +1,2071 @@
+CID10 CATEGORIA;Total_2017
+Total;1988169
+Capítulo I: Algumas doencas infecciosas e parasitárias (A00-B99);32503
+A00:Colera;190
+A01:Febres Tifoide e Paratifoide;82
+A02:Outras Infeccoes por Salmonella;18
+A03:Shiguelose;2
+A04:Outras Infeccoes Intestinais Bacterianas;31
+A05:Outras Intoxicacoes Alimentares Bacterianas;12
+A06:Amebiase;49
+A07:Outras Doencas Intestinais por Protozoarios;9
+A08:Infeccoes Intestinais Virais, Outras e as Nao Especificadas;12
+A09:Diarreia e Gastroenterite de Origem Infecciosa Presumivel;233
+A15:Tuberculose Respiratoria, com Confirmacao Bacteriologica e Histologica;6131
+A16:Tuberculose das Vias Respiratorias, sem Confirmacao Bacteriologica ou Histologica;2432
+A17:Tuberculose do Sistema Nervoso;65
+A18:Tuberculose de Outros Orgaos;370
+A19:Tuberculose Miliar;100
+A20:Peste;2
+A21:Tularemia;0
+A22:Carbunculo;8
+A23:Brucelose;13
+A24:Mormo e Melioidose;0
+A25:Febres Transmitidas por Mordedura de Rato;1
+A26:Erisipeloide;25
+A27:Leptospirose;160
+A28:Outras Doencas Bacterianas Zoonoticas Nao Classificadas em Outra Parte;12
+A30:Hanseniase [Doenca de Hansen] [Lepra];2679
+A31:Infeccoes Devidas a Outras Micobacterias;56
+A32:Listeriose [Listeriase];5
+A33:Tetano do Recem-Nascido [Neonatal];2
+A34:Tetano Obstetrico;0
+A35:Outros Tipos de Tetano;13
+A36:Difteria;0
+A37:Coqueluche;9
+A38:Escarlatina;2
+A39:Infeccao Meningogocica;44
+A40:Septicemia Estreptococica;15
+A41:Outras Septicemias;371
+A42:Actinomicose;4
+A43:Nocardiose;9
+A44:Bartonelose;11
+A46:Erisipela;2980
+A48:Outras Doencas Bacterianas Nao Classificadas em Outra Parte;82
+A49:Infeccao Bacteriana de Local Nao Especificado;374
+A50:Sifilis Congenita;3
+A51:Sifilis Precoce;32
+A52:Sifilis Tardia;52
+A53:Outras Formas e as Nao Especificadas da Sifilis;28
+A54:Infeccao Gonococica;11
+A55:Linfogranuloma (Venereo) por Clamidia;2
+A56:Outras Infeccoes Causadas por Clamidias Transmitidas por Via Sexual;6
+A57:Cancro Mole;4
+A58:Granuloma Inguinal;8
+A59:Tricomoniase;1
+A60:Infeccoes Anogenitais Pelo Virus do Herpes [Herpes Simples];25
+A63:Outras Doencas de Transmissao Predominantemente Sexual, Nao Classificadas em Outra Parte;71
+A64:Doencas Sexualmente Transmitidas, Nao Especificadas;6
+A65:Sifilis Nao-Venerea;0
+A66:Bouba;37
+A67:Pinta [Carate];4
+A68:Febres Recorrentes [Borrelioses];18
+A69:Outras Infeccoes por Espiroquetas;17
+A70:Infeccoes Causadas por Clamidia Psittaci;1
+A71:Tracoma;4
+A74:Outras Doencas Causadas por Clamidias;2
+A75:Tifo Exantematico;0
+A77:Febre Maculosa [Rickettsioses Transmitidas por Carrapatos];12
+A78:Febre Q;0
+A79:Outras Rickettsioses;1
+A80:Poliomielite Aguda;16
+A81:Infeccoes por Virus Atipico do Sistema Nervoso Central;13
+A82:Raiva;0
+A83:Encefalite por Virus Transmitidos por Mosquitos;3
+A84:Encefalite por Virus Transmitido por Carrapatos;0
+A85:Outras Encefalites Virais, Nao Classificadas em Outra Parte;17
+A86:Encefalite Viral, Nao Especificada;72
+A87:Meningite Viral;106
+A88:Outras Infeccoes Virais do Sistema Nervoso Central Nao Classificadas em Outra Parte;0
+A89:Infeccoes Virais Nao Especificadas do Sistema Nervoso Central;5
+A90:Dengue [Dengue Classico];209
+A91:Febre Hemorragica Devida ao Virus do Dengue;10
+A92:Outras Febres Virais Transmitidas por Mosquitos;1203
+A93:Outras Febres por Virus Transmitidas por Artropodes Nao Classificadas em Outra Parte;6
+A94:Febre Viral Transmitida por Artropodes, Nao Especificada;9
+A95:Febre Amarela;57
+A96:Febre Hemorragica por Arenavirus;4
+A98:Outras Febres Hemorragicas por Virus, Nao Classificadas em Outra Parte;3
+A99:Febres Hemorragicas Virais Nao Especificadas;5
+B00:Infeccoes Pelo Virus do Herpes [Herpes Simples];100
+B01:Varicela;155
+B02:Herpes Zoster [Zona];614
+B03:Variola;0
+B04:Variola dos Macacos [Monkeypox];0
+B05:Sarampo;1
+B06:Rubeola;2
+B07:Verrugas de Origem Viral;184
+B08:Outras Infeccoes Virais Caracterizadas por Lesoes da Pele e das Membranas Mucosas, Nao Classificadas em Outra Parte;11
+B09:Infeccao Viral Nao Especificada Caracterizada por Lesoes da Pele e Membranas Mucosas;8
+B15:Hepatite Aguda A;237
+B16:Hepatite Aguda B;140
+B17:Outras Hepatites Virais Agudas;106
+B18:Hepatite Viral Cronica;766
+B19:Hepatite Viral Nao Especificada;94
+B20:Doenca Pelo Virus da Imunodeficiencia Humana [Hiv], Resultando em Doencas Infecciosas e Parasitarias;1050
+B21:Doenca Pelo Virus da Imunodeficiencia Humana [Hiv], Resultando em Neoplasias Malignas;62
+B22:Doenca Pelo Virus da Imunodeficiencia Humana [Hiv] Resultando em Outras Doencas Especificadas;134
+B23:Doenca Pelo Virus da Imunodeficiencia Humana [Hiv] Resultando em Outras Doencas;281
+B24:Doenca Pelo Virus da Imunodeficiencia Humana [Hiv] Nao Especificada;4870
+B25:Doenca por Citomegalovirus;42
+B26:Caxumba [Parotidite Epidemica];333
+B27:Mononucleose Infecciosa;54
+B30:Conjuntivite Viral;126
+B33:Outras Doencas por Virus Nao Classificada em Outra Parte;16
+B34:Doencas por Virus, de Localizacao Nao Especificada;138
+B35:Dermatofitose;77
+B36:Outras Micoses Superficiais;39
+B37:Candidiase;34
+B38:Coccidioidomicose;15
+B39:Histoplasmose;44
+B40:Blastomicose;47
+B41:Paracoccidioidomicose;125
+B42:Esporotricose;123
+B43:Cromomicose e Abscesso Feomicotico;51
+B44:Aspergilose;41
+B45:Criptococose;85
+B46:Zigomicose;30
+B47:Micetoma;16
+B48:Outras Micoses, Nao Classificadas em Outra Parte;12
+B49:Micose Nao Especificada;29
+B50:Malaria por Plasmodium Falciparum;3
+B51:Malaria por Plasmodium Vivax;13
+B52:Malaria por Plasmodium Malariae;0
+B53:Outras Formas de Malaria Confirmadas por Exames Parasitologicos;0
+B54:Malaria Nao Especificada;7
+B55:Leishmaniose;746
+B56:Tripanossomiase Africana;0
+B57:Doenca de Chagas;584
+B58:Toxoplasmose;421
+B59:Pneumocistose;60
+B60:Outras Doencas Devidas a Protozoarios, Nao Classificadas em Outra Parte;30
+B64:Doenca Nao Especificada Devida a Protozoarios;0
+B65:Esquistossomose [Bilharziose] [Schistosomiase];85
+B66:Outras Infestacoes por Trematodeos;2
+B67:Equinococose;9
+B68:Infestacao por Taenia;0
+B69:Cisticercose;157
+B70:Difilobotriase e Esparganose;0
+B71:Outras Infestacoes por Cestoides;0
+B72:Dracontiase;0
+B73:Oncocercose;1
+B74:Filariose;8
+B75:Triquinose;1
+B76:Ancilostomiase;3
+B77:Ascaridiase;0
+B78:Estrongiloidiase;1
+B79:Tricuriase;0
+B80:Oxiuriase;0
+B81:Outras Helmintiases Intestinais, Nao Classificadas em Outra Parte;1
+B82:Parasitose Intestinal Nao Especificada;4
+B83:Outras Helmintiases;3
+B85:Pediculose e Ftiriase;1
+B86:Escabiose [Sarna];45
+B87:Miiase;11
+B88:Outras Infestacoes;7
+B89:Doenca Parasitaria Nao Especificada;1
+B90:Sequelas de Tuberculose;175
+B91:Sequelas de Poliomielite;308
+B92:Sequelas de Hanseniase [Lepra];619
+B94:Sequelas de Outras Doencas Infecciosas e Parasitarias e das Nao Especificadas;45
+B95:Estreptococos e Estafilococos Como Causa de Doencas Classificadas em Outros Capitulos;54
+B96:Outros Agentes Bacterianos, Como Causa de Doencas Classificadas em Outros Capitulos;9
+B97:Virus Como Causa de Doencas Classificadas em Outros Capitulos;79
+B99:Doencas Infecciosas, Outras e as Nao Especificadas;22
+Capítulo II: Neoplasias [tumores] (C00-D48);153942
+C00:Neoplasia Maligna do Labio;121
+C01:Neoplasia Maligna da Base da Lingua;267
+C02:Neoplasia Maligna de Outras Partes e de Partes Nao Especificadas da Lingua;481
+C03:Neoplasia Maligna da Gengiva;36
+C04:Neoplasia Maligna do Assoalho da Boca;221
+C05:Neoplasia Maligna do Palato;157
+C06:Neoplasia Maligna de Outras Partes e de Partes Nao Especificadas da Boca;250
+C07:Neoplasia Maligna da Glandula Parotida;190
+C08:Neoplasia Maligna de Outras Glandulas Salivares Maiores e as Nao Especificadas;79
+C09:Neoplasia Maligna da Amigdala;161
+C10:Neoplasia Maligna da Orofaringe;589
+C11:Neoplasia Maligna da Nasofaringe;255
+C12:Neoplasia Maligna do Seio Piriforme;59
+C13:Neoplasia Maligna da Hipofaringe;207
+C14:Neoplasia Maligna de Outras Localizacoes e de Localizacoes Mal Definida, do Labio, Cavidade Oral e Faringe;119
+C15:Neoplasia Maligna do Esofago;1192
+C16:Neoplasia Maligna do Estomago;2796
+C17:Neoplasia Maligna do Intestino Delgado;284
+C18:Neoplasia Maligna do Colon;4812
+C19:Neoplasia Maligna da Juncao Retossigmoide;555
+C20:Neoplasia Maligna do Reto;2645
+C21:Neoplasia Maligna do Anus e do Canal Anal;389
+C22:Neoplasia Maligna do Figado e das Vias Biliares Intra-Hepaticas;685
+C23:Neoplasia Maligna da Vesicula Biliar;139
+C24:Neoplasia Maligna de Outras Partes, e de Partes Nao Especificadas das Vias Biliares;205
+C25:Neoplasia Maligna do Pancreas;1068
+C26:Neoplasia Maligna de Outros Orgaos Digestivos e de Localizacoes Mal Definidas no Aparelho Digestivo;212
+C30:Neoplasia Maligna da Cavidade Nasal e do Ouvido Medio;64
+C31:Neoplasia Maligna dos Seios da Face;129
+C32:Neoplasia Maligna da Laringe;977
+C33:Neoplasia Maligna da Traqueia;9
+C34:Neoplasia Maligna dos Bronquios e dos Pulmoes;2196
+C37:Neoplasia Maligna do Timo;56
+C38:Neoplasia Maligna do Coracao, Mediastino e Pleura;122
+C39:Neoplasia Maligna de Outras Localizacoes e de Localizacoes Mal Definidas do Aparelho Respiratorio e dos Orgaos Intratoracicos;93
+C40:Neoplasia Maligna dos Ossos e Cartilagens Articulares dos Membros;326
+C41:Neoplasia Maligna dos Ossos e das Cartilagens Articulares de Outras Localizacoes e de Localizacoes Nao Especificadas;297
+C43:Melanoma Maligno da Pele;1133
+C44:Outras Neoplasias Malignas da Pele;1819
+C45:Mesotelioma;36
+C46:Sarcoma de Kaposi;61
+C47:Neoplasia Maligna dos Nervos Perifericos e do Sistema Nervoso Autonomo;23
+C48:Neoplasia Maligna dos Tecidos Moles do Retroperitonio e do Peritonio;228
+C49:Neoplasia Maligna do Tecido Conjuntivo e de Outros Tecidos Moles;1016
+C50:Neoplasia Maligna da Mama;21058
+C51:Neoplasia Maligna da Vulva;105
+C52:Neoplasia Maligna da Vagina;53
+C53:Neoplasia Maligna do Colo do Utero;4643
+C54:Neoplasia Maligna do Corpo do Utero;1125
+C55:Neoplasia Maligna do Utero, Porcao Nao Especificada;140
+C56:Neoplasia Maligna do Ovario;1595
+C57:Neoplasia Maligna de Outros Orgaos Genitais Femininos e dos Nao Especificados;117
+C58:Neoplasia Maligna da Placenta;61
+C60:Neoplasia Maligna do Penis;252
+C61:Neoplasia Maligna da Prostata;6143
+C62:Neoplasia Maligna dos Testiculos;1124
+C63:Neoplasia Maligna de Outros Orgaos Genitais Masculinos e dos Nao Especificados;70
+C64:Neoplasia Maligna do Rim, Exceto Pelve Renal;1806
+C65:Neoplasia Maligna da Pelve Renal;74
+C66:Neoplasia Maligna dos Ureteres;24
+C67:Neoplasia Maligna da Bexiga;923
+C68:Neoplasia Maligna de Outros Orgaos Urinarios e dos Nao Especificados;57
+C69:Neoplasia Maligna do Olho e Anexos;148
+C70:Neoplasia Maligna das Meninges;73
+C71:Neoplasia Maligna do Encefalo;1775
+C72:Neoplasia Maligna da Medula Espinhal, dos Nervos Cranianos e de Outras Partes do Sistema Nervoso Central;234
+C73:Neoplasia Maligna da Glandula Tireoide;3293
+C74:Neoplasia Maligna da Glandula Supra-Renal;66
+C75:Neoplasia Maligna de Outras Glandulas Endocrinas e de Estruturas Relacionadas;95
+C76:Neoplasia Maligna de Outras Localizacoes e de Localizacoes Mal Definidas;365
+C77:Neoplasia Maligna Secundaria e Nao Especificada dos Ganglios Linfaticos;242
+C78:Neoplasia Maligna Secundaria dos Orgaos Respiratorios e Digestivos;152
+C79:Neoplasia Maligna Secundaria de Outras Localizacoes;212
+C80:Neoplasia Maligna, sem Especificacao de Localizacao;622
+C81:Doenca de Hodgkin;1190
+C82:Linfoma Nao-Hodgkin, Folicular (Nodular);439
+C83:Linfoma Nao-Hodgkin Difuso;1082
+C84:Linfomas de Celulas T Cutaneas e Perifericas;187
+C85:Linfoma Nao-Hodgkin de Outros Tipos e de Tipo Nao Especificado;681
+C88:Doencas Imunoproliferativas Malignas;27
+C90:Mieloma Multiplo e Neoplasias Malignas de Plasmocitos;825
+C91:Leucemia Linfoide;587
+C92:Leucemia Mieloide;1136
+C93:Leucemia Monocitica;10
+C94:Outras Leucemias de Celulas de Tipo Especificado;50
+C95:Leucemia de Tipo Celular Nao Especificado;106
+C96:Outras Neoplasias Malignas e as Nao Especificadas dos Tecidos Linfatico, Hematopoetico e Tecidos Correlatos;42
+C97:Neoplasias Malignas de Localizacoes Multiplas Independentes (Primarias);27
+D00:Carcinoma In Situ da Cavidade Oral, do Esofago e do Estomago;54
+D01:Carcinoma In Situ de Outros Orgaos Digestivos;96
+D02:Carcinoma In Situ do Ouvido Medio e do Aparelho Respiratorio;36
+D03:Melanoma In Situ;84
+D04:Carcinoma In Situ da Pele;325
+D05:Carcinoma In Situ da Mama;246
+D06:Carcinoma In Situ do Colo do Utero (Cervix);542
+D07:Carcinoma In Situ de Outros Orgaos Genitais e dos Nao Especificados;99
+D09:Carcinoma In Situ de Outras Localizacoes e das Nao Especificadas;157
+D10:Neoplasia Benigna da Boca e da Faringe;99
+D11:Neoplasia Benigna de Glandulas Salivares Maiores;351
+D12:Neoplasia Benigna do Colon, Reto, Canal Anal e Anus;180
+D13:Neoplasia Benigna de Outras Partes e de Partes Mal Definidas do Aparelho Digestivo;248
+D14:Neoplasia Benigna do Ouvido Medio e do Aparelho Respiratorio;115
+D15:Neoplasia Benigna de Outros Orgaos Intratoracicos e dos Nao Especificados;99
+D16:Neoplasia Benigna de Osso e de Cartilagem Articular;923
+D17:Neoplasia Lipomatosa Benigna;836
+D18:Hemangioma e Linfangioma de Qualquer Localizacao;326
+D19:Neoplasia Benigna de Tecido Mesotelial;24
+D20:Neoplasia Benigna de Tecido Mole do Retroperitonio e do Peritonio;78
+D21:Outras Neoplasias Benignas do Tecido Conjuntivo e de Outros Tecidos Moles;638
+D22:Nevos Melanociticos;101
+D23:Outras Neoplasias Benignas da Pele;277
+D24:Neoplasia Benigna da Mama;484
+D25:Leiomioma do Utero;54403
+D26:Outras Neoplasias Benignas do Utero;705
+D27:Neoplasia Benigna do Ovario;1727
+D28:Neoplasia Benigna de Outros Orgaos Genitais Femininos e de Orgaos Nao Especificados;212
+D29:Neoplasia Benigna dos Orgaos Genitais Masculinos;120
+D30:Neoplasia Benigna dos Orgaos Urinarios;145
+D31:Neoplasia Benigna do Olho e Anexos;35
+D32:Neoplasia Benigna das Meninges;597
+D33:Neoplasia Benigna do Encefalo e de Outras Partes do Sistema Nervoso Central;1446
+D34:Neoplasia Benigna da Glandula Tireoide;508
+D35:Neoplasia Benigna de Outras Glandulas Endocrinas e das Nao Especificadas;689
+D36:Neoplasia Benigna de Outras Localizacoes e de Localizacoes Nao Especificadas;402
+D37:Neoplasia de Comportamento Incerto ou Desconhecido da Cavidade Oral e dos Orgaos Digestivos;451
+D38:Neoplasia de Comportamento Incerto ou Desconhecido do Ouvido Medio e dos Orgaos Respiratorios e Intratoracicos;300
+D39:Neoplasia de Comportamento Incerto ou Desconhecido dos Orgaos Genitais Femininos;1265
+D40:Neoplasia de Comportamento Incerto ou Desconhecido dos Orgaos Genitais Masculinos;143
+D41:Neoplasia de Comportamento Incerto ou Desconhecido dos Orgaos Urinarios;260
+D42:Neoplasia de Comportamento Incerto ou Desconhecido das Meninges;116
+D43:Neoplasia de Comportamento Incerto ou Desconhecido do Encefalo e do Sistema Nervoso Central;1200
+D44:Neoplasia de Comportamento Incerto ou Desconhecido das Glandulas Endocrinas;849
+D45:Policitemia Vera;43
+D46:Sindromes Mielodisplasicas;193
+D47:Outras Neoplasias de Comportamento Incerto ou Desconhecido dos Tecidos Linfatico, Hematopoetico e Tecidos Correlatos;224
+D48:Neoplasia de Comportamento Incerto ou Desconhecido de Outras Localizacoes e de Localizacoes Nao Especificadas;1696
+Capítulo III: Doencas do sangue e dos órgaos hematopoéticos e alguns transtornos imunitários (D50-D89);3549
+D50:Anemia por Deficiencia de Ferro;486
+D51:Anemia por Deficiencia de Vitamina B12;73
+D52:Anemia por Deficiencia de Folato;8
+D53:Outras Anemias Nutricionais;61
+D55:Anemia Devida a Transtornos Enzimaticos;9
+D56:Talassemia;35
+D57:Transtornos Falciformes;314
+D58:Outras Anemias Hemoliticas Hereditarias;33
+D59:Anemia Hemolitica Adquirida;153
+D60:Aplasia Pura da Serie Vermelha, Adquirida [Eritroblastopenia];24
+D61:Outras Anemias Aplasticas;179
+D62:Anemia Aguda Pos-Hemorragica;135
+D63:Anemia em Doencas Cronicas Classificadas em Outra Parte;203
+D64:Outras Anemias;392
+D65:Coagulacao Intravascular Disseminada [Sindrome de Desfibrinacao];4
+D66:Deficiencia Hereditaria do Fator Viii;27
+D67:Deficiencia Hereditaria do Fator Ix;4
+D68:Outros Defeitos da Coagulacao;257
+D69:Purpura e Outras Afeccoes Hemorragicas;664
+D70:Agranulocitose;19
+D71:Transtornos Funcionais dos Neutrofilos Polimorfonucleares;5
+D72:Outros Transtornos dos Globulos Brancos;30
+D73:Doencas do Baco;161
+D74:Metemoglobinemia;0
+D75:Outras Doencas do Sangue e dos Orgaos Hematopoeticos;58
+D76:Algumas Doencas Que Envolvem O Tecido Linforreticular e O Sistema Reticulohistiocitico;33
+D77:Outros Transtornos do Sangue e dos Orgaos Hematopoeticos em Doencas Classificadas em Outra Parte;28
+D80:Imunodeficiencia com Predominancia de Defeitos de Anticorpos;16
+D81:Deficiencias Imunitarias Combinadas;1
+D82:Imunodeficiencia Associada com Outros Defeitos  Major ;4
+D83:Imunodeficiencia Comum Variavel;11
+D84:Outras Imunodeficiencias;15
+D86:Sarcoidose;99
+D89:Outros Transtornos Que Comprometem O Mecanismo Imunitario Nao Classificados em Outra Parte;8
+Capítulo IV: Doencas endócrinas, nutricionais e metabólicas (E00-E90);29613
+E00:Sindrome de Deficiencia Congenita de Iodo;1
+E01:Transtornos Tireoidianos e Afeccoes Associadas, Relacionados a Deficiencia de Iodo;95
+E02:Hipotireoidismo Subclinico por Deficiencia de Iodo;14
+E03:Outros Hipotireoidismos;312
+E04:Outros Bocios Nao-Toxicos;1126
+E05:Tireotoxicose [Hipertireoidismo];788
+E06:Tireoidite;233
+E07:Outros Transtornos da Tireoide;329
+E10:Diabetes Mellitus Insulino-Dependente;5031
+E11:Diabetes Mellitus Nao-Insulino-Dependente;2868
+E12:Diabetes Mellitus Relacionado com a Desnutricao;40
+E13:Outros Tipos Especificados de Diabetes Mellitus;126
+E14:Diabetes Mellitus Nao Especificado;1756
+E15:Coma Hipoglicemico Nao-Diabetico;2
+E16:Outros Transtornos da Secrecao Pancreatica Interna;51
+E20:Hipoparatireoidismo;19
+E21:Hiperparatireoidismo e Outros Transtornos da Glandula Paratireoide;70
+E22:Hiperfuncao da Hipofise;105
+E23:Hipofuncao e Outros Transtornos da Hipofise;79
+E24:Sindrome de Cushing;62
+E25:Transtornos Adrenogenitais;4
+E26:Hiperaldosteronismo;22
+E27:Outros Transtornos da Glandula Supra-Renal;45
+E28:Disfuncao Ovariana;27
+E29:Disfuncao Testicular;21
+E30:Transtornos da Puberdade Nao Classificados em Outra Parte;2
+E31:Disfuncao Poliglandular;4
+E32:Doencas do Timo;7
+E34:Outros Transtornos Endocrinos;26
+E35:Transtornos das Glandulas Endocrinas em Doencas Classificadas em Outra Parte;15
+E40:Kwashiorkor;3
+E41:Marasmo Nutricional;2
+E42:Kwashiorkor Marasmatico;2
+E43:Desnutricao Proteico-Calorica Grave Nao Especificada;42
+E44:Desnutricao Proteico-Calorica de Graus Moderado e Leve;33
+E45:Atraso do Desenvolvimento Devido a Desnutricao Proteico-Calorica;0
+E46:Desnutricao Proteico-Calorica Nao Especificada;21
+E50:Deficiencia de Vitamina A;0
+E51:Deficiencia de Tiamina;40
+E52:Deficiencia de Niacina [Pelagra];1
+E53:Deficiencia de Outras Vitaminas do Grupo B;8
+E54:Deficiencia de Acido Ascorbico;3
+E55:Deficiencia de Vitamina D;1
+E56:Outras Deficiencias Vitaminicas;3
+E58:Deficiencia de Calcio da Dieta;0
+E59:Deficiencia de Selenio da Dieta;0
+E60:Deficiencia de Zinco da Dieta;0
+E61:Deficiencia de Outros Elementos Nutrientes;0
+E63:Outras Deficiencias Nutricionais;5
+E64:Sequelas de Desnutricao e de Outras Deficiencias Nutricionais;4
+E65:Adiposidade Localizada;299
+E66:Obesidade;13681
+E67:Outras Formas de Hiperalimentacao;2
+E68:Sequelas de Hiperalimentacao;44
+E70:Disturbios do Metabolismo de Aminoacidos Aromaticos;6
+E71:Disturbios do Metabolismo de Aminoacidos de Cadeia Ramificada e do Metabolismo dos Acidos Graxos;1
+E72:Outros Disturbios do Metabolismo de Aminoacidos;2
+E73:Intolerancia a Lactose;7
+E74:Outros Disturbios do Metabolismo de Carboidratos;6
+E75:Disturbios do Metabolismo de Esfingolipides e Outros Disturbios de Deposito de Lipides;17
+E76:Disturbios do Metabolismo do Glicosaminoglicano;2
+E77:Disturbios do Metabolismo de Glicoproteinas;1
+E78:Disturbios do Metabolismo de Lipoproteinas e Outras Lipidemias;26
+E79:Disturbios do Metabolismo de Purina e Pirimidina;10
+E80:Disturbios do Metabolismo da Porfirina e da Bilirrubina;34
+E83:Disturbios do Metabolismo de Minerais;31
+E84:Fibrose Cistica;34
+E85:Amiloidose;34
+E86:Deplecao de Volume;3
+E87:Outros Transtornos do Equilibrio Hidroeletrolitico e Acido-Basico;34
+E88:Outros Disturbios Metabolicos;1828
+E89:Transtornos Endocrinos e Metabolicos Pos-Procedimentos, Nao Classificados em Outra Parte;57
+E90:Transtornos Nutricionais e Metabolicos em Doencas Classificadas em Outra Parte;6
+Capítulo V: Transtornos mentais e comportamentais (F00-F99);169107
+F00:Demencia na Doenca de Alzheimer (G30.-+);107
+F01:Demencia Vascular;97
+F02:Demencia em Outras Doencas Classificadas em Outra Parte;102
+F03:Demencia Nao Especificada;221
+F04:Sindrome Amnesica Organica Nao Induzida Pelo Alcool ou por Outras Substancias Psicoativas;11
+F05:Delirium Nao Induzido Pelo Alcool ou por Outras Substancias Psicoativas;19
+F06:Outros Transtornos Mentais Devidos a Lesao e Disfuncao Cerebral e a Doenca Fisica;1076
+F07:Transtornos de Personalidade e do Comportamento Devidos a Doenca, a Lesao e a Disfuncao Cerebral;157
+F09:Transtorno Mental Organico ou Sintomatico Nao Especificado;66
+F10:Transtornos Mentais e Comportamentais Devidos ao Uso de Alcool;9176
+F11:Transtornos Mentais e Comportamentais Devidos ao Uso de Opiaceos;81
+F12:Transtornos Mentais e Comportamentais Devidos ao Uso de Canabinoides;262
+F13:Transtornos Mentais e Comportamentais Devidos ao Uso de Sedativos e Hipnoticos;69
+F14:Transtornos Mentais e Comportamentais Devidos ao Uso da Cocaina;4388
+F15:Transtornos Mentais e Comportamentais Devidos ao Uso de Outros Estimulantes, Inclusive a Cafeina;28
+F16:Transtornos Mentais e Comportamentais Devidos ao Uso de Alucinogenos;49
+F17:Transtornos Mentais e Comportamentais Devidos ao Uso de Fumo;17
+F18:Transtornos Mentais e Comportamentais Devidos ao Uso de Solventes Volateis;26
+F19:Transtornos Mentais e Comportamentais Devidos ao Uso de Multiplas Drogas e ao Uso de Outras Substancias Psicoativas;14827
+F20:Esquizofrenia;6762
+F21:Transtorno Esquizotipico;231
+F22:Transtornos Delirantes Persistentes;571
+F23:Transtornos Psicoticos Agudos e Transitorios;1735
+F24:Transtorno Delirante Induzido;16
+F25:Transtornos Esquizoafetivos;1765
+F28:Outros Transtornos Psicoticos Nao-Organicos;146
+F29:Psicose Nao-Organica Nao Especificada;3155
+F30:Episodio Maniaco;204
+F31:Transtorno Afetivo Bipolar;15724
+F32:Episodios Depressivos;43328
+F33:Transtorno Depressivo Recorrente;20748
+F34:Transtornos de Humor [Afetivos] Persistentes;659
+F38:Outros Transtornos do Humor [Afetivos];140
+F39:Transtorno do Humor [Afetivo] Nao Especificado;413
+F40:Transtornos Fobico-Ansiosos;1404
+F41:Outros Transtornos Ansiosos;28949
+F42:Transtorno Obsessivo-Compulsivo;658
+F43:Reacoes ao  Stress  Grave e Transtornos de Adaptacao;7271
+F44:Transtornos Dissociativos [De Conversao];733
+F45:Transtornos Somatoformes;390
+F48:Outros Transtornos Neuroticos;136
+F50:Transtornos da Alimentacao;77
+F51:Transtornos Nao-Organicos do Sono Devidos a Fatores Emocionais;75
+F52:Disfuncao Sexual, Nao Causada por Transtorno ou Doenca Organica;14
+F53:Transtornos Mentais e Comportamentais Associados ao Puerperio, Nao Classificados em Outra Parte;350
+F54:Fatores Psicologicos ou Comportamentais Associados a Doenca ou a Transtornos Classificados em Outra Parte;18
+F55:Abuso de Substancias Que Nao Produzem Dependencia;7
+F59:Sindromes Comportamentais Associados a Transtornos das Funcoes Fisiologicas e a Fatores Fisicos, Nao Especificadas;9
+F60:Transtornos Especificos da Personalidade;1665
+F61:Transtornos Mistos da Personalidade e Outros Transtornos da Personalidade;10
+F62:Modificacoes Duradouras da Personalidade Nao Atribuiveis a Lesao ou Doenca Cerebral;27
+F63:Transtornos dos Habitos e dos Impulsos;79
+F64:Transtornos da Identidade Sexual;26
+F65:Transtornos da Preferencia Sexual;2
+F66:Transtornos Psicologicos e Comportamentais Associados ao Desenvolvimento Sexual e a Sua Orientacao;6
+F68:Outros Transtornos da Personalidade e do Comportamento do Adulto;49
+F69:Transtorno da Personalidade e do Comportamento do Adulto, Nao Especificado;26
+F70:Retardo Mental Leve;182
+F71:Retardo Mental Moderado;144
+F72:Retardo Mental Grave;38
+F73:Retardo Mental Profundo;2
+F78:Outro Retardo Mental;1
+F79:Retardo Mental Nao Especificado;44
+F80:Transtornos Especificos do Desenvolvimento da Fala e da Linguagem;5
+F81:Transtornos Especificos do Desenvolvimento das Habilidades Escolares;5
+F82:Transtorno Especifico do Desenvolvimento Motor;1
+F83:Transtornos Especificos Misto do Desenvolvimento;4
+F84:Transtornos Globais do Desenvolvimento;38
+F88:Outros Transtornos do Desenvolvimento Psicologico;1
+F89:Transtorno do Desenvolvimento Psicologico Nao Especificado;3
+F90:Transtornos Hipercineticos;39
+F91:Disturbios de Conduta;16
+F92:Transtornos Mistos de Conduta e das Emocoes;33
+F93:Transtornos Emocionais com Inicio Especificamente na Infancia;3
+F94:Transtornos do Funcionamento Social com Inicio Especificamente Durante a Infancia ou a Adolescencia;0
+F95:Tiques;26
+F98:Outros Transtornos Comportamentais e Emocionais com Inicio Habitualmente Durante a Infancia ou a Adolescencia;26
+F99:Transtorno Mental Nao Especificado em Outra Parte;139
+Capítulo VI: Doencas do sistema nervoso (G00-G99);42996
+G00:Meningite Bacteriana Nao Classificada em Outra Parte;249
+G01:Meningite em Doencas Bacterianas Classificadas em Outra Parte;1
+G02:Meningite em Outras Doencas Infecciosas e Parasitarias Classificadas em Outra Parte;27
+G03:Meningite Devida a Outras Causas e a Causas Nao Especificadas;84
+G04:Encefalite, Mielite e Encefalomielite;198
+G05:Encefalite, Mielite e Encefalomielite em Doencas Classificadas em Outra Parte;67
+G06:Abscesso e Granuloma Intracranianos e Intra-Raquidianos;99
+G07:Abscesso e Granuloma Intracranianos e Intraspinais em Doencas Classificadas em Outra Parte;11
+G08:Flebite e Tromboflebite Intracranianas e Intra-Raquidianas;6
+G09:Sequelas de Doencas Inflamatorias do Sistema Nervoso Central;33
+G10:Doenca de Huntington;79
+G11:Ataxia Hereditaria;296
+G12:Atrofia Muscular Espinal e Sindromes Correlatas;443
+G13:Atrofias Sistemicas Que Afetam Principalmente O Sistema Nervoso Central em Doencas Classificadas em Outra Parte;20
+G20:Doenca de Parkinson;1737
+G21:Parkinsonismo Secundario;87
+G22:Parkinsonismo em Doencas Classificadas em Outra Parte;68
+G23:Outras Doencas Degenerativas dos Ganglios da Base;19
+G24:Distonia;131
+G25:Outras Doencas Extrapiramidais e Transtornos dos Movimentos;191
+G26:Doencas Extrapiramidais e Transtornos dos Movimentos em Doencas Classificadas em Outra Parte;5
+G30:Doenca de Alzheimer;423
+G31:Outras Doencas Degenerativas do Sistema Nervoso Nao Classificadas em Outra Parte;131
+G32:Outros Transtornos Degenerativos do Sistema Nervoso em Doencas Classificadas em Outra Parte;24
+G35:Esclerose Multipla;989
+G36:Outras Desmielinizacoes Disseminadas Agudas;123
+G37:Outras Doencas Desmielinizantes do Sistema Nervoso Central;315
+G40:Epilepsia;4520
+G41:Estado de Mal Epileptico;58
+G43:Enxaqueca;560
+G44:Outras Sindromes de Algias Cefalicas;316
+G45:Acidentes Vasculares Cerebrais Isquemicos Transitorios e Sindromes Correlatas;966
+G46:Sindromes Vasculares Cerebrais Que Ocorrem em Doencas Cerebrovasculares (I60-I67+);280
+G47:Disturbios do Sono;306
+G50:Transtornos do Nervo Trigemeo;320
+G51:Transtornos do Nervo Facial;1266
+G52:Transtornos de Outros Nervos Cranianos;64
+G53:Transtornos dos Nervos Cranianos em Doencas Classificadas em Outra Parte;67
+G54:Transtornos das Raizes e dos Plexos Nervosos;708
+G55:Compressoes das Raizes e dos Plexos Nervosos em Doencas Classificadas em Outra Parte;1025
+G56:Mononeuropatias dos Membros Superiores;19712
+G57:Mononeuropatias dos Membros Inferiores;651
+G58:Outras Mononeuropatias;374
+G59:Mononeuropatias em Doencas Classificadas em Outra Parte;55
+G60:Neuropatia Hereditaria e Idiopatica;200
+G61:Polineuropatia Inflamatoria;799
+G62:Outras Polineuropatias;631
+G63:Polineuropatia em Doencas Classificadas em Outra Parte;537
+G64:Outros Transtornos do Sistema Nervoso Periferico;80
+G70:Miastenia Gravis e Outros Transtornos Neuromusculares;360
+G71:Transtornos Primarios dos Musculos;243
+G72:Outras Miopatias;96
+G73:Transtornos da Juncao Mioneural e dos Musculos em Doencas Classificadas em Outra Parte;27
+G80:Paralisia Cerebral Infantil;92
+G81:Hemiplegia;259
+G82:Paraplegia e Tetraplegia;598
+G83:Outras Sindromes Paraliticas;254
+G90:Transtornos do Sistema Nervoso Autonomo;83
+G91:Hidrocefalia;485
+G92:Encefalopatia Toxica;14
+G93:Outros Transtornos do Encefalo;506
+G94:Outros Transtornos do Encefalo em Doencas Classificadas em Outra Parte;20
+G95:Outras Doencas da Medula Espinal;296
+G96:Outros Transtornos do Sistema Nervoso Central;42
+G97:Transtornos Pos-Procedimento do Sistema Nervoso Nao Classificados em Outra Parte;17
+G98:Outras Transtornos do Sistema Nervoso Nao Classificados em Outra Parte;51
+G99:Outros Transtornos do Sistema Nervoso em Doencas Classificadas em Outra Parte;202
+Capítulo VII: Doencas do olho e anexos (H00-H59);39856
+H00:Hordeolo e Calazio;54
+H01:Outras Inflamacoes da Palpebra;31
+H02:Outros Transtornos da Palpebra;581
+H03:Transtornos da Palpebra em Doencas Classificadas em Outras Partes;11
+H04:Transtornos do Aparelho Lacrimal;124
+H05:Transtornos da Orbita;82
+H06:Transtornos do Aparelho Lacrimal e da Orbita em Doencas Classificadas em Outra Parte;31
+H10:Conjuntivite;1345
+H11:Outros Transtornos da Conjuntiva;4430
+H13:Transtornos da Conjuntiva em Doencas Classificadas em Outra Parte;27
+H15:Transtornos da Esclerotica;37
+H16:Ceratite;1062
+H17:Cicatrizes e Opacidades da Cornea;182
+H18:Outros Transtornos da Cornea;1759
+H19:Transtorno da Esclerotica e da Cornea em Doencas Classificadas em Outra Parte;67
+H20:Iridociclite;156
+H21:Outros Transtornos da Iris e do Corpo Ciliar;27
+H22:Transtornos da Iris e do Corpo Ciliar em Doencas Classificadas em Outra Parte;17
+H25:Catarata Senil;6339
+H26:Outras Cataratas;4268
+H27:Outros Transtornos do Cristalino;73
+H28:Catarata e Outros Transtornos do Cristalino em Doencas Classificadas em Outra Parte;861
+H30:Inflamacao Coriorretiniana;484
+H31:Outros Transtornos da Coroide;179
+H32:Transtornos Coriorretinianos em Doencas Classificadas em Outra Parte;81
+H33:Descolamentos e Defeitos da Retina;3967
+H34:Oclusoes Vasculares da Retina;275
+H35:Outros Transtornos da Retina;1414
+H36:Transtornos da Retina em Doencas Classificadas em Outra Parte;1834
+H40:Glaucoma;2155
+H42:Glaucoma em Doencas Classificadas em Outra Parte;17
+H43:Transtornos do Humor Vitreo;263
+H44:Transtornos do Globo Ocular;358
+H45:Transtornos do Humor Vitreo e do Globo Ocular em Doencas Classificadas em Outra Parte;120
+H46:Neurite Optica;226
+H47:Outros Transtornos do Nervo Optico e das Vias Opticas;135
+H48:Transtornos do Nervo Optico [Segundo Par] e das Vias Opticas em Doencas Classificadas em Outra Parte;31
+H49:Estrabismo Paralitico;160
+H50:Outros Estrabismos;282
+H51:Outros Transtornos do Movimento Binocular;28
+H52:Transtornos da Refracao e da Acomodacao;435
+H53:Disturbios Visuais;391
+H54:Cegueira e Visao Subnormal;5280
+H55:Nistagmo e Outros Movimentos Irregulares do Olho;10
+H57:Outros Transtornos do Olho e Anexos;111
+H58:Outros Transtornos do Olho e Anexos em Doencas Classificadas em Outra Parte;7
+H59:Transtornos do Olho e Anexos Pos-Procedimento Nao Classificados em Outra Parte;49
+Capítulo VIII: Doencas do ouvido e da apófise mastóide (H60-H95);4367
+H60:Otite Externa;117
+H61:Outros Transtornos do Ouvido Externo;23
+H62:Transtornos do Ouvido Externo em Doencas Classificadas em Outra Parte;17
+H65:Otite Media Nao-Supurativa;189
+H66:Otite Media Supurativa e as Nao Especificadas;462
+H67:Otite Media em Doencas Classificadas em Outra Parte;32
+H68:Salpingite e Obstrucao da Trompa de Eustaquio;196
+H69:Outros Transtornos da Trompa de Eustaquio;23
+H70:Mastoidite e Afeccoes Correlatas;210
+H71:Colesteatoma do Ouvido Medio;144
+H72:Perfuracao da Membrana do Timpano;215
+H73:Outros Transtornos da Membrana do Timpano;14
+H74:Outros Transtornos do Ouvido Medio e da Mastoide;35
+H75:Outros Transtornos do Ouvido Medio e da Mastoide em Doencas Classificadas em Outra Parte;7
+H80:Otosclerose;129
+H81:Transtornos da Funcao Vestibular;663
+H82:Sindromes Vertiginosas em Doencas Classificadas em Outra Parte;54
+H83:Outros Transtornos do Ouvido Interno;1051
+H90:Perda de Audicao por Transtorno de Conducao e/ou Neuro-Sensorial;551
+H91:Outras Perdas de Audicao;92
+H92:Otalgia e Secrecao Auditiva;78
+H93:Outros Transtornos do Ouvido Nao Classificados em Outra Parte;43
+H94:Outros Transtornos do Ouvido em Doencas Classificadas em Outra Parte;10
+H95:Transtornos do Ouvido e da Apofise Mastoide Pos-Procedimentos, Nao Classificados em Outra Parte;12
+Capítulo IX: Doencas do aparelho circulatório (I00-I99);139741
+I00:Febre Reumatica sem Mencao de Comprometimento do Coracao;26
+I01:Febre Reumatica com Comprometimento do Coracao;77
+I02:Coreia Reumatica;7
+I05:Doencas Reumaticas da Valva Mitral;1414
+I06:Doencas Reumaticas da Valva Aortica;673
+I07:Doencas Reumaticas da Valva Tricuspide;19
+I08:Doencas de Multiplas Valvas;155
+I09:Outras Doencas Reumaticas do Coracao;49
+I10:Hipertensao Essencial (Primaria);5853
+I11:Doenca Cardiaca Hipertensiva;1127
+I12:Doenca Renal Hipertensiva;77
+I13:Doenca Cardiaca e Renal Hipertensiva;46
+I15:Hipertensao Secundaria;164
+I20:Angina Pectoris;8037
+I21:Infarto Agudo do Miocardio;10693
+I22:Infarto do Miocardio Recorrente;66
+I23:Algumas Complicacoes Atuais Subsequentes ao Infarto Agudo do Miocardio;68
+I24:Outras Doencas Isquemicas Agudas do Coracao;721
+I25:Doenca Isquemica Cronica do Coracao;7934
+I26:Embolia Pulmonar;1140
+I27:Outras Formas de Doenca Cardiaca Pulmonar;264
+I28:Outras Doencas dos Vasos Pulmonares;13
+I30:Pericardite Aguda;158
+I31:Outras Doencas do Pericardio;118
+I32:Pericardite em Doencas Classificadas em Outra Parte;11
+I33:Endocardite Aguda e Subaguda;226
+I34:Transtornos Nao-Reumaticos da Valva Mitral;862
+I35:Transtornos Nao-Reumaticos da Valva Aortica;1031
+I36:Transtornos Nao-Reumaticos da Valva Tricuspide;20
+I37:Transtornos da Valva Pulmonar;37
+I38:Endocardite de Valva Nao Especificada;35
+I39:Endocardite e Transtornos Valvulares Cardiacos em Doencas Classificadas em Outra Parte;30
+I40:Miocardite Aguda;167
+I41:Miocardite em Doencas Classificadas em Outra Parte;35
+I42:Cardiomiopatias;2098
+I43:Cardiomiopatia em Doencas Classificadas em Outra Parte;102
+I44:Bloqueio Atrioventricular e do Ramo Esquerdo;614
+I45:Outros Transtornos de Conducao;195
+I46:Parada Cardiaca;106
+I47:Taquicardia Paroxistica;583
+I48: Flutter  e Fibrilacao Atrial;873
+I49:Outras Arritmias Cardiacas;1780
+I50:Insuficiencia Cardiaca;7965
+I51:Complicacoes de Cardiopatias e Doencas Cardiacas Mal Definidas;235
+I52:Outras Afeccoes Cardiacas em Doencas Classificadas em Outra Parte;19
+I60:Hemorragia Subaracnoide;1249
+I61:Hemorragia Intracerebral;946
+I62:Outras Hemorragias Intracranianas Nao-Traumaticas;291
+I63:Infarto Cerebral;2427
+I64:Acidente Vascular Cerebral, Nao Especificado Como Hemorragico ou Isquemico;10383
+I65:Oclusao e Estenose de Arterias Pre-Cerebrais Que Nao Resultam em Infarto Cerebral;179
+I66:Oclusao e Estenose de Arterias Cerebrais Que Nao Resultam em Infarto Cerebral;64
+I67:Outras Doencas Cerebrovasculares;1675
+I68:Transtornos Cerebrovasculares em Doencas Classificadas em Outra Parte;85
+I69:Sequelas de Doencas Cerebrovasculares;4178
+I70:Aterosclerose;1199
+I71:Aneurisma e Disseccao da Aorta;941
+I72:Outros Aneurismas;433
+I73:Outras Doencas Vasculares Perifericas;918
+I74:Embolia e Trombose Arteriais;1014
+I77:Outras Afeccoes das Arterias e Arteriolas;303
+I78:Doencas dos Capilares;22
+I79:Transtornos das Arterias, das Arteriolas e dos Capilares em Doencas Classificadas em Outra Parte;201
+I80:Flebite e Tromboflebite;3836
+I81:Trombose da Veia Porta;91
+I82:Outra Embolia e Trombose Venosas;4171
+I83:Varizes dos Membros Inferiores;33797
+I84:Hemorroidas;10641
+I85:Varizes Esofagianas;213
+I86:Varizes de Outras Localizacoes;1677
+I87:Outras Transtornos das Veias;1932
+I88:Linfadenite Inespecifica;78
+I89:Outros Transtornos Nao-Infecciosos dos Vasos Linfaticos e dos Ganglios Linfaticos;668
+I95:Hipotensao;74
+I97:Transtornos do Aparelho Circulatorio, Subsequentes a Procedimentos Nao Classificados em Outra Parte;64
+I98:Outros Transtornos do Aparelho Circulatorio em Doencas Classificadas em Outra Parte;27
+I99:Outros Transtornos do Aparelho Circulatorio e Os Nao Especificados;41
+Capítulo X: Doencas do aparelho respiratório (J00-J99);18259
+J00:Nasofaringite Aguda [Resfriado Comum];34
+J01:Sinusite Aguda;294
+J02:Faringite Aguda;35
+J03:Amigdalite Aguda;168
+J04:Laringite e Traqueite Agudas;67
+J05:Laringite Obstrutiva Aguda [Crupe] e Epiglotite;1
+J06:Infeccoes Agudas das Vias Aereas Superiores de Localizacoes Multiplas e Nao Especificadas;143
+J09:Influenza [Gripe] Devida a Virus Identificado da Gripe Aviaria;2
+J10:Influenza Devida a Virus da Influenza [Gripe] Identificado;24
+J11:Influenza [Gripe] Devida a Virus Nao Identificado;73
+J12:Pneumonia Viral Nao Classificada em Outra Parte;64
+J13:Pneumonia Devida a Streptococcus Pneumoniae;67
+J14:Pneumonia Devida a Haemophilus Infuenzae;16
+J15:Pneumonia Bacteriana Nao Classificada em Outra Parte;2165
+J16:Pneumonia Devida a Outros Microorganismos Infecciosos Especificados Nao Classificados em Outra Parte;70
+J17:Pneumonia em Doencas Classificadas em Outra Parte;75
+J18:Pneumonia por Microorganismo Nao Especificada;1859
+J20:Bronquite Aguda;145
+J21:Bronquiolite Aguda;25
+J22:Infeccoes Agudas Nao Especificada das Vias Aereas Inferiores;78
+J30:Rinite Alergica e Vasomotora;137
+J31:Rinite, Nasofaringite e Faringite Cronicas;73
+J32:Sinusite Cronica;450
+J33:Polipo Nasal;152
+J34:Outros Transtornos do Nariz e dos Seios Paranasais;2042
+J35:Doencas Cronicas das Amigdalas e das Adenoides;560
+J36:Abscesso Periamigdaliano;41
+J37:Laringite e Laringotraqueite Cronicas;125
+J38:Doencas das Cordas Vocais e da Laringe Nao Classificadas em Outra Parte;664
+J39:Outras Doencas das Vias Aereas Superiores;83
+J40:Bronquite Nao Especificada Como Aguda ou Cronica;90
+J41:Bronquite Cronica Simples e a Mucopurulenta;56
+J42:Bronquite Cronica Nao Especificada;93
+J43:Enfisema;498
+J44:Outras Doencas Pulmonares Obstrutivas Cronicas;2549
+J45:Asma;2087
+J46:Estado de Mal Asmatico;27
+J47:Bronquectasia;315
+J60:Pneumoconiose dos Mineiros de Carvao;0
+J61:Pneumoconiose Devida a Amianto [Asbesto] e Outras Fibras Minerais;5
+J62:Pneumoconiose Devida a Poeira Que Contenham Silica;33
+J63:Pneumoconiose Devida a Outras Poeiras Inorganicas;8
+J64:Pneumoconiose Nao Especificada;9
+J65:Pneumoconiose Associada com Tuberculose;4
+J66:Doencas das Vias Aereas Devida a Poeiras Organicas Especificas;4
+J67:Pneumonite de Hipersensibilidade Devida a Poeiras Organicas;34
+J68:Afeccoes Respiratorias Devidas a Inalacao de Produtos Quimicos, Gases, Fumacas e Vapores;12
+J69:Pneumonite Devida a Solidos e Liquidos;7
+J70:Afeccoes Respiratorias Devida a Outros Agentes Externos;10
+J80:Sindrome do Desconforto Respiratorio do Adulto;10
+J81:Edema Pulmonar, Nao Especificado de Outra Forma;72
+J82:Eosinofilia Pulmonar, Nao Classificada em Outra Parte;5
+J84:Outras Doencas Pulmonares Intersticiais;400
+J85:Abscesso do Pulmao e do Mediastino;139
+J86:Piotorax;124
+J90:Derrame Pleural Nao Classificado em Outra Parte;475
+J91:Derrame Pleural em Afeccoes Classificadas em Outra Parte;178
+J92:Placas Pleurais;6
+J93:Pneumotorax;601
+J94:Outras Afeccoes Pleurais;169
+J95:Afeccoes Respiratorias Pos-Procedimentos Nao Classificadas em Outra Parte;81
+J96:Insuficiencia Respiratoria Nao Classificada de Outra Parte;195
+J98:Outros Transtornos Respiratorios;205
+J99:Transtornos Respiratorios em Doencas Classificadas em Outra Parte;26
+Capítulo XI: Doencas do aparelho digestivo (K00-K93);189883
+K00:Disturbios do Desenvolvimento e da Erupcao dos Dentes;20
+K01:Dentes Inclusos e Impactados;105
+K02:Carie Dentaria;16
+K03:Outras Doencas dos Tecidos Dentarios Duros;30
+K04:Doencas da Polpa e dos Tecidos Periapicais;118
+K05:Gengivite e Doencas Periodontais;52
+K06:Outros Transtornos da Gengiva e do Rebordo Alveolar sem Dentes;28
+K07:Anomalias Dentofaciais (Inclusive a Maloclusao);1481
+K08:Outros Transtornos dos Dentes e de Suas Estruturas de Sustentacao;214
+K09:Cistos da Regiao Bucal Nao Classificados em Outra Parte;114
+K10:Outras Doencas dos Maxilares;185
+K11:Doencas das Glandulas Salivares;112
+K12:Estomatite e Lesoes Correlatas;50
+K13:Outras Doencas do Labio e da Mucosa Oral;27
+K14:Doencas da Lingua;10
+K20:Esofagite;166
+K21:Doenca de Refluxo Gastroesofagico;1215
+K22:Outras Doencas do Esofago;362
+K23:Transtornos do Esofago em Doencas Classificadas em Outra Parte;164
+K25:Ulcera Gastrica;843
+K26:Ulcera Duodenal;403
+K27:Ulcera Peptica de Localizacao Nao Especificada;144
+K28:Ulcera Gastrojejunal;48
+K29:Gastrite e Duodenite;501
+K30:Dispepsia;90
+K31:Outras Doencas do Estomago e do Duodeno;240
+K35:Apendicite Aguda;25803
+K36:Outras Formas de Apendicite;237
+K37:Apendicite, sem Outras Especificacoes;900
+K38:Outras Doencas do Apendice;121
+K40:Hernia Inguinal;42214
+K41:Hernia Femoral;459
+K42:Hernia Umbilical;22180
+K43:Hernia Ventral;8133
+K44:Hernia Diafragmatica;398
+K45:Outras Hernias Abdominais;1805
+K46:Hernia Abdominal Nao Especificada;5909
+K50:Doenca de Crohn [Enterite Regional];1063
+K51:Colite Ulcerativa;1101
+K52:Outras Gastroenterites e Colites Nao-Infecciosas;140
+K55:Transtornos Vasculares do Intestino;97
+K56:Ileo Paralitico e Obstrucao Intestinal sem Hernia;994
+K57:Doenca Diverticular do Intestino;872
+K58:Sindrome do Colon Irritavel;66
+K59:Outros Transtornos Funcionais do Intestino;231
+K60:Fissura e Fistula das Regioes Anal e Retal;5144
+K61:Abscesso das Regioes Anal e Retal;1131
+K62:Outras Doencas do Reto e do Anus;543
+K63:Outras Doencas do Intestino;571
+K65:Peritonite;302
+K66:Outros Transtornos do Peritonio;182
+K67:Comprometimento do Peritonio, em Doencas Infecciosas Classificadas em Outra Parte;6
+K70:Doenca Alcoolica do Figado;1247
+K71:Doenca Hepatica Toxica;122
+K72:Insuficiencia Hepatica Nao Classificada em Outra Parte;175
+K73:Hepatite Cronica Nao Classificada em Outra Parte;174
+K74:Fibrose e Cirrose Hepaticas;1054
+K75:Outras Doencas Inflamatorias do Figado;484
+K76:Outras Doencas do Figado;467
+K77:Transtornos do Figado em Doencas Classificadas em Outra Parte;35
+K80:Colelitiase;44156
+K81:Colecistite;10293
+K82:Outras Doencas da Vesicula Biliar;549
+K83:Outras Doencas das Vias Biliares;618
+K85:Pancreatite Aguda;1707
+K86:Outras Doencas do Pancreas;446
+K87:Transtornos da Vesicula Biliar, das Vias Biliares e do Pancreas em Doencas Classificadas em Outra Parte;81
+K90:Ma-Absorcao Intestinal;39
+K91:Transtornos do Aparelho Digestivo Pos-Procedimentos, Nao Classificados em Outra Parte;253
+K92:Outras Doencas do Aparelho Digestivo;578
+K93:Transtornos de Outros Orgaos Digestivos em Doencas Classificadas em Outra Parte;65
+Capítulo XII: Doencas da pele e do tecido subcutâneo (L00-L99);19881
+L00:Sindrome da Pele Escaldada Estafilococica do Recem-Nascido;2
+L01:Impetigo;41
+L02:Abscesso Cutaneo, Furunculo e Antraz;2414
+L03:Celulite (Flegmao);1480
+L04:Linfadenite Aguda;80
+L05:Cisto Pilonidal;3144
+L08:Outras Infeccoes Localizadas da Pele e do Tecido Subcutaneo;687
+L10:Penfigo;190
+L11:Outras Afeccoes Acantoliticas;11
+L12:Penfigoide;43
+L13:Outras Afeccoes Bolhosas;44
+L14:Afeccoes Bolhosas em Doencas Classificadas em Outra Parte;2
+L20:Dermatite Atopica;311
+L21:Dermatite Seborreica;20
+L22:Dermatite das Fraldas;0
+L23:Dermatites Alergicas de Contato;811
+L24:Dermatites de Contato por Irritantes;178
+L25:Dermatite de Contato Nao Especificada;410
+L26:Dermatite Esfoliativa;39
+L27:Dermatite Devida a Substancias de Uso Interno;18
+L28:Liquen Simples Cronico e Prurigo;45
+L29:Prurido;21
+L30:Outras Dermatites;408
+L40:Psoriase;1174
+L41:Parapsoriase;24
+L42:Pitiriase Rosea;9
+L43:Liquen Plano;49
+L44:Outras Afeccoes Papulo-Descamativas;32
+L45:Afeccoes Papulo-Descamativas em Doencas Classificadas em Outra Parte;2
+L50:Urticaria;180
+L51:Eritema Polimorfo (Eritema Multiforme);67
+L52:Eritema Nodoso;82
+L53:Outras Afeccoes Eritematosas;23
+L54:Eritema em Doencas Classificadas em Outra Parte;11
+L55:Queimadura Solar;26
+L56:Outras Alteracoes Agudas da Pele Devidas a Radiacao Ultravioleta;21
+L57:Alteracoes da Pele Devidas a Exposicao Cronica a Radiacao Nao Ionizante;107
+L58:Radiodermatite;3
+L59:Outras Afeccoes da Pele e do Tecido Subcutaneo Relacionadas com a Radiacao;20
+L60:Afeccoes das Unhas;774
+L62:Afeccoes das Unhas em Doencas Classificadas em Outra Parte;5
+L63:Alopecia Areata;6
+L64:Alopecia Androgenica;4
+L65:Outras Formas Nao Cicatriciais da Perda de Cabelos ou Pelos;1
+L66:Alopecia Cicatricial [Perda de Cabelos ou Pelos, Cicatricial];14
+L67:Anormalidades da Cor e do Pediculo dos Cabelos e dos Pelos;1
+L68:Hipertricose;1
+L70:Acne;11
+L71:Rosacea;29
+L72:Cistos Foliculares da Pele e do Tecido Subcutaneo;720
+L73:Outras Afeccoes Foliculares;244
+L74:Afeccoes das Glandulas Sudoriparas Ecrinas;4
+L75:Afeccoes das Glandulas Sudoriparas Apocrinas;3
+L80:Vitiligo;69
+L81:Outros Transtornos da Pigmentacao;11
+L82:Ceratose Seborreica;6
+L83:Acantose Nigricans;5
+L84:Calos e Calosidades;610
+L85:Outras Formas de Espessamento Epidermico;133
+L86:Ceratodermia em Doencas Classificadas em Outra Parte;11
+L87:Transtornos da Eliminacao Transepidermica;9
+L88:Piodermite Gangrenosa;65
+L89:Ulcera de Decubito;101
+L90:Afeccoes Atroficas da Pele;227
+L91:Afeccoes Hipertroficas da Pele;297
+L92:Afeccoes Granulomatosas da Pele e do Tecido Subcutaneo;245
+L93:Lupus Eritematoso;560
+L94:Outras Afeccoes Localizadas do Tecido Conjuntivo;76
+L95:Vasculite Limitada a Pele Nao Classificadas em Outra Parte;106
+L97:Ulcera dos Membros Inferiores Nao Classificada em Outra Parte;1710
+L98:Outras Afeccoes da Pele e do Tecido Subcutaneo Nao Classificadas em Outra Parte;1363
+L99:Outras Afeccoes da Pele e do Tecido Subcutaneo em Doencas Classificadas em Outra Parte;231
+Capítulo XIII: Doencas do sistema osteomuscular e do tecido conjuntivo (M00-M99);366782
+M00:Artrite Piogenica;446
+M01:Infeccoes Diretas da Articulacao em Doencas Infecciosas e Parasitarias Classificadas em Outra Parte;128
+M02:Artropatias Reacionais;87
+M03:Artropatias Pos-Infecciosas e Reacionais em Doencas Infecciosas Classificadas em Outra Parte;52
+M05:Artrite Reumatoide Soro-Positiva;3372
+M06:Outras Artrites Reumatoides;2391
+M07:Artropatias Psoriasicas e Enteropaticas;377
+M08:Artrite Juvenil;103
+M09:Artrite Juvenil em Doencas Classificadas em Outra Parte;21
+M10:Gota;1071
+M11:Outras Artropatias por Deposicao de Cristais;34
+M12:Outras Artropatias Especificadas;236
+M13:Outras Artrites;1267
+M14:Artropatias em Outras Doencas Classificadas em Outra Parte;147
+M15:Poliartrose;1574
+M16:Coxartrose [Artrose do Quadril];8479
+M17:Gonartrose [Artrose do Joelho];14311
+M18:Artrose da Primeira Articulacao Carpometacarpiana;261
+M19:Outras Artroses;5582
+M20:Deformidades Adquiridas dos Dedos das Maos e dos Pes;3638
+M21:Outras Deformidades Adquiridas dos Membros;1418
+M22:Transtornos da Rotula [Patela];2348
+M23:Transtornos Internos dos Joelhos;40511
+M24:Outras Transtornos Articulares Especificos;1902
+M25:Outros Transtornos Articulares Nao Classificados em Outra Parte;14510
+M30:Poliarterite Nodosa e Afeccoes Correlatas;30
+M31:Outras Vasculopatias Necrotizantes;192
+M32:Lupus Eritematoso Disseminado [Sistemico];2452
+M33:Dermatopoliomiosite;247
+M34:Esclerose Sistemica;326
+M35:Outras Afeccoes Sistemicas do Tecido Conjuntivo;400
+M36:Doencas Sistemicas do Tecido Conjuntivo em Doencas Classificadas em Outra Parte;36
+M40:Cifose e Lordose;117
+M41:Escoliose;1158
+M42:Osteocondrose da Coluna Vertebral;41
+M43:Outras Dorsopatias Deformantes;1120
+M45:Espondilite Ancilosante;1266
+M46:Outras Espondilopatias Inflamatorias;872
+M47:Espondilose;3859
+M48:Outras Espondilopatias;927
+M49:Espondilopatias em Doencas Classificadas em Outra Parte;79
+M50:Transtornos dos Discos Cervicais;5586
+M51:Outros Transtornos de Discos Intervertebrais;59524
+M53:Outras Dorsopatias Nao Classificadas em Outra Parte;1670
+M54:Dorsalgia;83763
+M60:Miosite;156
+M61:Calcificacao e Ossificacao do Musculo;52
+M62:Outros Transtornos Musculares;1782
+M63:Transtornos de Musculo em Doencas Classificadas em Outra Parte;38
+M65:Sinovite e Tenossinovite;18231
+M66:Ruptura Espontanea de Sinovia e de Tendao;1689
+M67:Outros Transtornos das Sinovias e dos Tendoes;895
+M68:Transtorno de Sinovias e de Tendoes em Doencas Classificadas em Outra Parte;219
+M70:Transtornos dos Tecidos Moles Relacionados com O Uso, Uso Excessivo e Pressao;1308
+M71:Outras Bursopatias;2112
+M72:Transtornos Fibroblasticos;1706
+M73:Transtornos dos Tecidos Moles em Doencas Classificadas em Outra Parte;91
+M75:Lesoes do Ombro;46722
+M76:Entesopatias dos Membros Inferiores, Excluindo Pe;1543
+M77:Outras Entesopatias;7486
+M79:Outros Transtornos dos Tecidos Moles, Nao Classificados em Outra Parte;6028
+M80:Osteoporose com Fratura Patologica;86
+M81:Osteoporose sem Fratura Patologica;152
+M82:Osteoporose em Doencas Classificadas em Outra Parte;25
+M83:Osteomalacia do Adulto;39
+M84:Transtornos da Continuidade do Osso;1836
+M85:Outros Transtornos da Densidade e da Estrutura Osseas;271
+M86:Osteomielite;1901
+M87:Osteonecrose;1272
+M88:Doenca de Paget do Osso (Osteite Deformante);29
+M89:Outros Transtornos Osseos;278
+M90:Osteopatias em Doencas Classificadas em Outra Parte;63
+M91:Osteocondrose Juvenil do Quadril e da Pelve;88
+M92:Outras Osteocondroses Juvenis;79
+M93:Outras Osteocondropatias;526
+M94:Outros Transtornos das Cartilagens;309
+M95:Outras Deformidades Adquiridas do Sistema Osteomuscular e do Tecido Conjuntivo;189
+M96:Transtornos Osteomusculares Pos-Procedimentos Nao Classificados em Outra Parte;387
+M99:Lesoes Biomecanicas Nao Classificadas em Outra Parte;1263
+Capítulo XIV: Doencas do aparelho geniturinário (N00-N99);73229
+N00:Sindrome Nefritica Aguda;53
+N01:Sindrome Nefritica Rapidamente Progressiva;14
+N02:Hematuria Recidivante e Persistente;28
+N03:Sindrome Nefritica Cronica;21
+N04:Sindrome Nefrotica;404
+N05:Sindrome Nefritica Nao Especificada;24
+N06:Proteinuria Isolada com Lesao Morfologica Especificada;11
+N07:Nefropatia Hereditaria Nao Classificada em Outra Parte;21
+N08:Transtornos Glomerulares em Doencas Classificadas em Outra Parte;32
+N10:Nefrite Tubulo-Intersticial Aguda;204
+N11:Nefrite Tubulo-Intersticial Cronica;521
+N12:Nefrite Tubulo-Intersticial Nao Especificada Se Aguda ou Cronica;41
+N13:Uropatia Obstrutiva e por Refluxo;933
+N14:Afeccoes Tubulares e Tubulo-Intersticiais Induzidas por Drogas ou Metais Pesados;11
+N15:Outras Doencas Renais Tubulo-Intersticiais;182
+N16:Transtornos Renais Tubulo-Intersticiais em Doencas Classificadas em Outra Parte;19
+N17:Insuficiencia Renal Aguda;397
+N18:Insuficiencia Renal Cronica;6288
+N19:Insuficiencia Renal Nao Especificada;355
+N20:Calculose do Rim e do Ureter;9247
+N21:Calculose do Trato Urinario Inferior;686
+N22:Calculose do Trato Urinario Inferior em Doencas Classificadas em Outra Parte;58
+N23:Colica Nefretica Nao Especificada;851
+N25:Transtornos Resultantes de Funcao Renal Tubular Alterada;35
+N26:Rim Contraido, Nao Especificado;89
+N27:Hipoplasia Renal de Causa Desconhecida;12
+N28:Outros Transtornos do Rim e do Ureter Nao Classificado em Outra Parte;304
+N29:Outros Transtornos do Rim e do Ureter em Doencas Classificadas em Outra Parte;39
+N30:Cistite;506
+N31:Disfuncoes Neuromusculares da Bexiga Nao Classificados em Outra Parte;200
+N32:Outros Transtornos da Bexiga;480
+N33:Transtornos da Bexiga em Doencas Classificadas em Outra Parte;28
+N34:Uretrite e Sindrome Uretral;55
+N35:Estenose da Uretra;652
+N36:Outros Transtornos da Uretra;101
+N37:Transtornos da Uretra em Doencas Classificadas em Outra Parte;16
+N39:Outros Transtornos do Trato Urinario;2551
+N40:Hiperplasia da Prostata;3054
+N41:Doencas Inflamatorias da Prostata;210
+N42:Outras Afeccoes da Prostata;69
+N43:Hidrocele e Espermatocele;1889
+N44:Torcao do Testiculo;204
+N45:Orquite e Epididimite;569
+N46:Infertilidade Masculina;40
+N47:Hipertrofia do Prepucio, Fimose e Parafimose;419
+N48:Outros Transtornos do Penis;219
+N49:Transtornos Inflamatorios de Orgaos Genitais Masculinos, Nao Classificados em Outra Parte;219
+N50:Outros Transtornos dos Orgaos Genitais Masculinos;271
+N51:Transtornos dos Orgaos Genitais Masculinos em Doencas Classificadas em Outra Parte;214
+N60:Displasias Mamarias Benignas;985
+N61:Transtornos Inflamatorios da Mama;252
+N62:Hipertrofia da Mama;3999
+N63:Nodulo Mamario Nao Especificado;2566
+N64:Outras Doencas da Mama;1729
+N70:Salpingite e Ooforite;870
+N71:Doenca Inflamatoria do Utero, Exceto O Colo;102
+N72:Doenca Inflamatoria do Colo do Utero;133
+N73:Outras Doencas Inflamatorias Pelvicas Femininas;444
+N74:Transtornos Inflamatorios da Pelve Feminina em Doencas Classificadas em Outra Parte;52
+N75:Doencas da Glandula de Bartholin;616
+N76:Outras Afeccoes Inflamatorias da Vagina e da Vulva;77
+N77:Ulceracao e Inflamacao Vulvovaginais em Doencas Classificadas em Outra Parte;16
+N80:Endometriose;6375
+N81:Prolapso Genital Feminino;6087
+N82:Fistulas do Trato Genital Feminino;239
+N83:Transtornos Nao-Inflamatorios do Ovario, da Trompa de Falopio e do Ligamento Largo;6275
+N84:Polipo do Trato Genital Feminino;737
+N85:Outros Transtornos Nao-Inflamatorios do Utero, Exceto do Colo do Utero;1950
+N86:Erosao e Ectropio do Colo do Utero;29
+N87:Displasia do Colo do Utero;887
+N88:Outros Transtornos Nao-Inflamatorios do Colo do Utero;1165
+N89:Outros Transtornos Nao-Inflamatorios da Vagina;109
+N90:Outros Transtornos Nao-Inflamatorios da Vulva e do Perineo;545
+N91:Menstruacao Ausente, Escassa e Pouco Frequente;16
+N92:Menstruacao Excessiva, Frequente e Irregular;1991
+N93:Outros Sangramentos Anormais do Utero e da Vagina;1148
+N94:Dor e Outras Afeccoes Associadas com Os Orgaos Genitais Femininos e com O Ciclo Menstrual;213
+N95:Transtornos da Menopausa e da Perimenopausa;41
+N96:Abortamento Habitual;193
+N97:Infertilidade Feminina;155
+N98:Complicacoes Associadas a Fecundacao Artificial;14
+N99:Transtornos do Trato Geniturinario Pos-Procedimentos Nao Classificados em Outra Parte;373
+Capítulo XV: Gravidez, parto e puerpério (O00-O99);67808
+O00:Gravidez Ectopica;4301
+O01:Mola Hidatiforme;162
+O02:Outros Produtos Anormais da Concepcao;766
+O03:Aborto Espontaneo;2310
+O04:Aborto por Razoes Medicas e Legais;23
+O05:Outros Tipos de Aborto;123
+O06:Aborto Nao Especificado;542
+O07:Falha de Tentativa de Aborto;5
+O08:Complicacoes Consequentes a Aborto e Gravidez Ectopica ou Molar;106
+O10:Hipertensao Pre-Existente Complicando a Gravidez, O Parto e O Puerperio;1534
+O11:Disturbio Hipertensivo Pre-Existente com Proteinuria Superposta;47
+O12:Edema e Proteinuria Gestacionais [Induzidos Pela Gravidez], sem Hipertensao;357
+O13:Hipertensao Gestacional [Induzida Pela Gravidez] sem Proteinuria Significativa;2098
+O14:Hipertensao Gestacional [Induzida Pela Gravidez] com Proteinuria Significativa;1904
+O15:Eclampsia;140
+O16:Hipertensao Materna Nao Especificada;725
+O20:Hemorragia do Inicio da Gravidez;21272
+O21:Vomitos Excessivos na Gravidez;2182
+O22:Complicacoes Venosas na Gravidez;564
+O23:Infeccoes do Trato Geniturinario na Gravidez;808
+O24:Diabetes Mellitus na Gravidez;1193
+O25:Desnutricao na Gravidez;25
+O26:Assistencia Materna por Outras Complicacoes Ligadas Predominantemente a Gravidez;3443
+O28:Achados Anormais do Rastreamento [ Screening ] Antenatal da Moe;197
+O29:Complicacoes de Anestesia Administrada Durante a Gravidez;3
+O30:Gestacao Multipla;898
+O31:Complicacoes Especificas de Gestacao Multipla;180
+O32:Assistencia Prestada a Moe por Motivo de Apresentacao Anormal, Conhecida ou Suspeitada, do Feto;26
+O33:Assistencia Prestada a Moe por Uma Desproporcao Conhecida ou Suspeita;23
+O34:Assistencia Prestada a Moe por Anormalidade, Conhecida ou Suspeita, dos Orgaos Pelvicos Maternos;1106
+O35:Assistencia Prestada a Moe por Anormalidade e Lesao Fetais, Conhecidas ou Suspeitadas;98
+O36:Assistencia Prestada a Moe por Outros Problemas Fetais Conhecidos ou Suspeitados;267
+O40:Polihidramnio;119
+O41:Outros Transtornos das Membranas e do Liquido Amniotico;705
+O42:Ruptura Prematura de Membranas;287
+O43:Transtornos da Placenta;331
+O44:Placenta Previa;1871
+O45:Descolamento Prematuro da Placenta [Abruptio Placentae];1453
+O46:Hemorragia Anteparto Nao Classificada em Outra Parte;230
+O47:Falso Trabalho de Parto;2798
+O48:Gravidez Prolongada;16
+O60:Parto Pre-Termo;6740
+O61:Falha na Inducao do Trabalho de Parto;11
+O62:Anormalidades da Contracao Uterina;4584
+O63:Trabalho de Parto Prolongado;27
+O64:Obstrucao do Trabalho de Parto Devida a Ma-Posicao ou Ma-Apresentacao do Feto;12
+O65:Obstrucao do Trabalho de Parto Devida a Anormalidade Pelvica da Moe;8
+O66:Outras Formas de Obstrucao do Trabalho de Parto;10
+O67:Trabalho de Parto e Parto Complicados por Hemorragia Intraparto Nao Classificados em Outra Parte;5
+O68:Trabalho de Parto e Parto Complicados por Sofrimento Fetal;41
+O69:Trabalho de Parto e Parto Complicados por Anormalidade do Cordao Umbilical;14
+O70:Laceracao do Perineo Durante O Parto;50
+O71:Outros Traumatismos Obstetricos;43
+O72:Hemorragia Pos-Parto;57
+O73:Retencao da Placenta e das Membranas, sem Hemorragias;6
+O74:Complicacoes de Anestesia Durante O Trabalho de Parto e O Parto;1
+O75:Outras Complicacoes do Trabalho de Parto e do Parto Nao Classificadas em Outra Parte;21
+O80:Parto Unico Espontaneo;39
+O81:Parto Unico por Forceps ou Vacuo-Extrator;1
+O82:Parto Unico por Cesariana;88
+O83:Outros Tipos de Parto Unico Assistido;25
+O84:Parto Multiplo;7
+O85:Infeccao Puerperal;8
+O86:Outras Infeccoes Puerperais;22
+O87:Complicacoes Venosas no Puerperio;19
+O88:Embolia de Origem Obstetrica;5
+O89:Complicacoes da Anestesia Administrada Durante O Puerperio;0
+O90:Complicacoes do Puerperio Nao Classificadas em Outra Parte;48
+O91:Infeccoes Mamarias Associadas ao Parto;20
+O92:Outras Afeccoes da Mama e da Lactacao Associadas ao Parto;22
+O94:Sequelas de Complicacoes da Gravidez, Parto e Puerperio;7
+O95:Morte Obstetrica de Causa Nao Especificada;6
+O96:Morte, por Qualquer Causa Obstetrica, Que Ocorre Mais de 42 Dias, Mas Menos de 1 Ano, Apos O Parto;0
+O97:Morte por Sequelas de Causas Obstetricas Diretas;0
+O98:Doencas Infecciosas e Parasitarias Maternas Classificaveis em Outra Parte Mas Que Compliquem a Gravidez, O Parto e O Puerperio;24
+O99:Outras Doencas da Moe, Classificadas em Outra Parte, Mas Que Complicam a Gravidez O Parto e O Puerperio;599
+Capítulo XVI: Algumas afeccoes originadas no período perinatal (P00-P96);421
+P00:Feto e Recem-Nascido Afetados por Afeccoes Maternas, Nao Obrigatoriamente Relacionadas com a Gravidez Atual;4
+P01:Feto e Recem-Nascido Afetados por Complicacoes Maternas da Gravidez;7
+P02:Feto e Recem-Nascido Afetados por Complicacoes da Placenta, do Cordao Umbilical e das Membranas;8
+P03:Feto e Recem-Nascido Afetados por Outras Complicacoes do Trabalho de Parto e do Parto;8
+P04:Feto e Recem-Nascido Afetados por Influencias Nocivas Transmitidas ao Feto Via Placenta ou Leite Materno;0
+P05:Crescimento Fetal Retardado e Desnutricao Fetal;158
+P07:Transtornos Relacionados com a Gestacao de Curta Duracao e Peso Baixo ao Nascer Nao Classificados em Outra Parte;9
+P08:Transtornos Relacionados com a Gestacao Prolongada e Peso Elevado ao Nascer;2
+P10:Laceracao Intracraniana e Hemorragia Devidas a Traumatismo de Parto;1
+P11:Outros Traumatismos de Parto do Sistema Nervoso Central;0
+P12:Lesao do Couro Cabeludo Devida a Traumatismo de Parto;0
+P13:Lesoes do Esqueleto Devidas a Traumatismo de Parto;30
+P14:Lesoes ao Nascer do Sistema Nervoso Periferico;7
+P15:Outros Traumatismos de Parto;2
+P20:Hipoxia Intra-Uterina;2
+P21:Asfixia ao Nascer;0
+P22:Desconforto (Angustia) Respiratorio(A) do Recem-Nascido;0
+P23:Pneumonia Congenita;0
+P24:Sindrome de Aspiracao Neonatal;1
+P25:Enfisema Intersticial e Afeccoes Correlatas Originadas no Periodo Perinatal;2
+P26:Hemorragia Pulmonar Originada no Periodo Perinatal;1
+P27:Doenca Respiratoria Cronica Originada no Periodo Perinatal;0
+P28:Outras Afeccoes Respiratorias Originadas no Periodo Perinatal;0
+P29:Transtornos Cardiovasculares Originados no Periodo Perinatal;1
+P35:Doencas Virais Congenitas;1
+P36:Septicemia Bacteriana do Recem-Nascido;0
+P37:Outras Doencas Infecciosas e Parasitarias Congenitas;5
+P38:Onfalite do Recem-Nascido com ou sem Hemorragia Leve;0
+P39:Outras Infeccoes Especificas do Periodo Perinatal;19
+P50:Perda Sanguinea Fetal;5
+P51:Hemorragia Umbilical do Recem-Nascido;0
+P52:Hemorragia Intracraniana Nao-Traumatica do Feto e do Recem-Nascido;8
+P53:Doenca Hemorragica do Feto e do Recem-Nascido;0
+P54:Outras Hemorragias Neonatais;5
+P55:Doenca Hemolitica do Feto e do Recem-Nascido;0
+P56:Hidropsia Fetal Devida a Doenca Hemolitica;4
+P57:Kernicterus;27
+P58:Ictericia Neonatal Devida a Outras Hemolises Excessivas;0
+P59:Ictericia Neonatal Devida a Outras Causas e as Nao Especificadas;0
+P60:Coagulacao Intravascular Disseminada do Feto e do Recem-Nascido;0
+P61:Outros Transtornos Hematologicos Perinatais;1
+P70:Transtornos Transitorios do Metabolismo dos Carboidratos Especificos do Feto e do Recem-Nascido;1
+P71:Transtornos Transitorios do Metabolismo do Calcio e do Magnesio do Periodo Neonatal;2
+P72:Outros Transtornos Endocrinos Transitorios do Periodo Neonatal;3
+P74:Outros Disturbios Eletroliticos e Metabolicos Transitorios do Periodo Neonatal;0
+P75:Ileo Meconial (E84.1+);0
+P76:Outras Obstrucoes Intestinais do Recem-Nascido;0
+P77:Enterocolite Necrotizante do Feto e do Recem-Nascido;0
+P78:Outros Transtornos do Aparelho Digestivo do Periodo Perinatal;1
+P80:Hipotermia do Recem-Nascido;0
+P81:Outros Disturbios da Regulacao Termica do Recem-Nascido;0
+P83:Outras Afeccoes Comprometendo O Tegumento Especificas do Feto e do Recem-Nascido;30
+P90:Convulsoes do Recem-Nascido;0
+P91:Outros Disturbios da Funcao Cerebral do Recem-Nascido;7
+P92:Problemas de Alimentacao do Recem-Nascido;10
+P93:Reacoes e Intoxicacoes Devidas a Drogas Administradas ao Feto e ao Recem-Nascido;0
+P94:Transtornos do Tonus Muscular do Recem-Nascido;0
+P95:Morte Fetal de Causa Nao Especificada;40
+P96:Outras Afeccoes Originadas no Periodo Perinatal;9
+Capítulo XVII: Malformacoes congênitas, deformidades e anomalias cromossômicas (Q00-Q99);5511
+Q00:Anencefalia e Malformacoes Similares;0
+Q01:Encefalocele;8
+Q02:Microcefalia;4
+Q03:Hidrocefalia Congenita;11
+Q04:Outras Malformacoes Congenitas do Cerebro;27
+Q05:Espinha Bifida;34
+Q06:Outras Malformacoes Congenitas da Medula Espinhal;24
+Q07:Outras Malformacoes Congenitas do Sistema Nervoso;244
+Q10:Malformacoes Congenitas das Palpebras, do Aparelho Lacrimal e da Orbita;13
+Q11:Anoftalmia, Microftalmia e Macroftalmia;10
+Q12:Malformacoes Congenitas do Cristalino;43
+Q13:Malformacoes Congenitas da Camara Anterior do Olho;4
+Q14:Malformacoes Congenitas da Camara Posterior do Olho;0
+Q15:Outras Malformacoes Congenitas do Olho;19
+Q16:Malformacoes Congenitas do Ouvido Causando Comprometimento da Audicao;2
+Q17:Outras Malformacoes Congenitas da Orelha;60
+Q18:Outras Malformacoes Congenitas da Face e do Pescoco;162
+Q20:Malformacoes Congenitas das Camaras e das Comunicacoes Cardiacas;52
+Q21:Malformacoes Congenitas dos Septos Cardiacos;710
+Q22:Malformacoes Congenitas das Valvas Pulmonar e Tricuspide;36
+Q23:Malformacoes Congenitas das Valvas Aortica e Mitral;50
+Q24:Outras Malformacoes Congenitas do Coracao;39
+Q25:Malformacoes Congenitas das Grandes Arterias;83
+Q26:Malformacoes Congenitas das Grandes Veias;8
+Q27:Outras Malformacoes Congenitas do Sistema Vascular Periferico;73
+Q28:Outras Malformacoes Congenitas do Aparelho Circulatorio;258
+Q30:Malformacao Congenita do Nariz;18
+Q31:Malformacoes Congenitas da Laringe;2
+Q32:Malformacoes Congenitas da Traqueia e dos Bronquios;6
+Q33:Malformacoes Congenitas do Pulmao;13
+Q34:Outras Malformacoes Congenitas do Aparelho Respiratorio;11
+Q35:Fenda Palatina;33
+Q36:Fenda Labial;18
+Q37:Fenda Labial com Fenda Palatina;80
+Q38:Outras Malformacoes Congenitas da Lingua, da Boca e da Faringe;17
+Q39:Malformacoes Congenitas do Esofago;13
+Q40:Outras Malformacoes Congenitas do Trato Digestivo Superior;83
+Q41:Ausencia, Atresia e Estenose Congenita do Intestino Delgado;2
+Q42:Ausencia, Atresia e Estenose Congenita do Colon;1
+Q43:Outras Malformacoes Congenitas do Intestino;76
+Q44:Malformacoes Congenitas da Vesicula Biliar, das Vias Biliares e do Figado;55
+Q45:Outras Malformacoes Congenitas do Aparelho Digestivo;8
+Q50:Malformacoes Congenitas dos Ovarios, das Trompas de Falopio e dos Ligamentos Largos;641
+Q51:Malformacoes Congenitas do Utero e do Colo do Utero;68
+Q52:Outras Malformacoes Congenitas dos Orgaos Genitais Femininos;26
+Q53:Testiculo Nao-Descido;94
+Q54:Hipospadias;19
+Q55:Outras Malformacoes Congenitas dos Orgaos Genitais Masculinos;11
+Q56:Sexo Indeterminado e Pseudo-Hermafroditismo;0
+Q60:Agenesia Renal e Outros Defeitos de Reducao do Rim;15
+Q61:Doencas Cisticas do Rim;132
+Q62:Anomalias Congenitas Obstrutivas da Pelve Renal e Malformacoes Congenitas do Ureter;129
+Q63:Outras Malformacoes Congenitas do Rim;10
+Q64:Outras Malformacoes Congenitas do Aparelho Urinario;52
+Q65:Malformacoes Congenitas do Quadril;142
+Q66:Deformidades Congenitas do Pe;548
+Q67:Deformidades Osteomusculares Congenitas da Cabeca, da Face, da Coluna e do Torax;112
+Q68:Outras Deformidades Osteomusculares Congenitas;62
+Q69:Polidactilia;20
+Q70:Sindactilia;28
+Q71:Defeitos, por Reducao, do Membro Superior;10
+Q72:Defeitos, por Reducao, do Membro Inferior;45
+Q73:Defeitos por Reducao de Membro Nao Especificado;4
+Q74:Outras Malformacoes Congenitas dos Membros;50
+Q75:Outras Malformacoes Congenitas dos Ossos do Cranio e da Face;49
+Q76:Malformacoes Congenitas da Coluna Vertebral e dos Ossos do Torax;53
+Q77:Osteocondrodisplasia com Anomalias de Crescimento dos Ossos Longos e da Coluna Vertebral;25
+Q78:Outras Osteocondrodisplasias;82
+Q79:Malformacoes Congenitas do Sistema Osteomuscular Nao Classificadas em Outra Parte;32
+Q80:Ictiose Congenita;14
+Q81:Epidermolise Bolhosa;15
+Q82:Outras Malformacoes Congenitas da Pele;39
+Q83:Malformacoes Congenitas da Mama;409
+Q84:Outras Malformacoes Congenitas do Tegumento;3
+Q85:Facomatoses Nao Classificadas em Outra Parte;92
+Q86:Sindromes com Malformacoes Congenitas Devidas a Causas Exogenas Conhecidas, Nao Classificadas em Outra Parte;1
+Q87:Outras Sindromes com Malformacoes Congenitas Que Acometem Multiplos Sistemas;30
+Q89:Outras Malformacoes Congenitas Nao Classificadas em Outra Parte;28
+Q90:Sindrome de Down;2
+Q91:Sindrome de Edwards e Sindrome de Patau;2
+Q92:Outras Trissomias e Trissomias Parciais dos Autossomos, Nao Classificadas em Outra Parte;0
+Q93:Monossomias e Delecoes dos Autossomos, Nao Classificadas em Outra Parte;0
+Q95:Rearranjos Equilibrados e Marcadores Estruturais, Nao Classificados em Outra Parte;1
+Q96:Sindrome de Turner;3
+Q97:Outras Anomalias dos Cromossomos Sexuais, Fenotipo Feminino, Nao Classificadas em Outra Parte;0
+Q98:Outras Anomalias dos Cromossomos Sexuais, Fenotipo Masculino, Nao Classificadas em Outra Parte;1
+Q99:Outras Anomalias dos Cromossomos, Nao Classificadas em Outra Parte;2
+Capítulo XVIII: Sintomas, sinais e achados anormais de exames clínicos e de laboratório, nao classificados em outra parte (R00-R99);19797
+R00:Anormalidades do Batimento Cardiaco;208
+R01:Sopros e Outros Ruidos Cardiacos;9
+R02:Gangrena Nao Classificada em Outra Parte;265
+R03:Valor Anormal da Pressao Arterial sem Diagnostico;3
+R04:Hemorragia das Vias Respiratorias;173
+R05:Tosse;88
+R06:Anormalidades da Respiracao;269
+R07:Dor de Garganta e no Peito;613
+R09:Outros Sintomas e Sinais Relativos Aos Aparelhos Circulatorio e Respiratorio;27
+R10:Dor Abdominal e Pelvica;7325
+R11:Nausea e Vomitos;98
+R12:Pirose;2
+R13:Disfagia;27
+R14:Flatulencia e Afeccoes Correlatas;0
+R15:Incontinencia Fecal;65
+R16:Hepatomegalia e Esplenomegalia Nao Classificadas em Outra Parte;153
+R17:Ictericia Nao Especificada;184
+R18:Ascite;76
+R19:Outros Sintomas e Sinais Relativos ao Aparelho Digestivo e ao Abdome;363
+R20:Disturbios da Sensibilidade Cutanea;52
+R21:Eritema e Outras Erupcoes Cutaneas Nao Especificadas;16
+R22:Tumefacao, Massa ou Tumoracao Localizadas da Pele e do Tecido Subcutaneo;1429
+R23:Outras Alteracoes Cutaneas;54
+R25:Movimentos Involuntarios Anormais;80
+R26:Anormalidades da Marcha e da Mobilidade;45
+R27:Outros Disturbios da Coordenacao;68
+R29:Outros Sintomas e Sinais Relativos Aos Sistemas Nervoso e Osteomuscular;30
+R30:Dor Associada a Miccao;15
+R31:Hematuria Nao Especificada;52
+R32:Incontinencia Urinaria Nao Especificada;3298
+R33:Retencao Urinaria;183
+R34:Anuria e Oliguria;2
+R35:Poliuria;3
+R36:Secrecao Uretral;0
+R39:Outros Sintomas e Sinais Relativos ao Aparelho Urinario;18
+R40:Sonolencia, Estupor e Coma;34
+R41:Outros Sintomas e Sinais Relativos a Funcao Cognitiva e a Consciencia;43
+R42:Tontura e Instabilidade;509
+R43:Disturbios do Olfato e do Paladar;5
+R44:Outros Sintomas e Sinais Relativos as Sensacoes e as Percepcoes Gerais;9
+R45:Sintomas e Sinais Relativos ao Estado Emocional;77
+R46:Sintomas e Sinais Relativos a Aparencia e ao Comportamento;17
+R47:Disturbios da Fala Nao Classificados em Outra Parte;12
+R48:Dislexia e Outras Disfuncoes Simbolicas, Nao Classificadas em Outra Parte;2
+R49:Disturbios da Voz;774
+R50:Febre de Origem Desconhecida;158
+R51:Cefaleia;732
+R52:Dor Nao Classificada em Outra Parte;759
+R53:Mal Estar, Fadiga;87
+R54:Senilidade;18
+R55:Sincope e Colapso;313
+R56:Convulsoes, Nao Classificadas em Outra Parte;176
+R57:Choque Nao Classificado em Outra Parte;58
+R58:Hemorragia Nao Classificada em Outra Parte;63
+R59:Aumento de Volume dos Ganglios Linfaticos;216
+R60:Edema Nao Classificado em Outra Parte;131
+R61:Hiperidrose;61
+R62:Retardo do Desenvolvimento Fisiologico Normal;6
+R63:Sintomas e Sinais Relativos a Ingestao de Alimentos e Liquidos;52
+R64:Caquexia;23
+R68:Outros Sintomas e Sinais Gerais;51
+R69:Causas Desconhecidas e Nao Especificadas de Morbidade;105
+R70:Velocidade de Hemossedimentacao Elevada e Outras Anormalidades da Viscosidade Plasmatica;0
+R71:Anormalidade das Hemacias;0
+R72:Anormalidade dos Leucocitos Nao Classificada em Outra Parte;1
+R73:Aumento da Glicemia;0
+R74:Anormalidades dos Niveis de Enzimas Sericas;0
+R75:Evidencia Laboratorial do Virus da Imunodeficiencia Humana [Hiv];0
+R76:Outros Achados Imunologicos Anormais no Soro;0
+R77:Outras Anormalidades das Proteinas Plasmaticas;0
+R78:Presenca de Drogas e de Outras Substancias Normalmente Nao Encontradas no Sangue;0
+R79:Outros Achados Anormais de Exames Quimicos do Sangue;0
+R80:Proteinuria Isolada;3
+R81:Glicosuria;1
+R82:Outros Achados Anormais na Urina;0
+R83:Achados Anormais no Liquido Cefalorraquidiano;0
+R84:Achados Anormais de Material Proveniente dos Orgaos Respiratorios e do Torax;0
+R85:Achados Anormais de Material Proveniente dos Orgaos Digestivos e da Cavidade Abdominal;0
+R86:Achados Anormais de Material Proveniente dos Orgaos Genitais Masculinos;0
+R87:Achados Anormais de Material Proveniente dos Orgaos Genitais Femininos;0
+R89:Achados Anormais de Material Proveniente de Outros Orgaos, Aparelhos, Sistemas e Tecidos;0
+R90:Resultados Anormais de Exames para Diagnostico por Imagem do Sistema Nervoso Central;2
+R91:Achados Anormais, de Exames para Diagnostico por Imagem, do Pulmao;2
+R92:Achados Anormais, de Exames para Diagnostico por Imagem, da Mama;1
+R93:Achados Anormais de Exames para Diagnostico por Imagem de Outras Estruturas do Corpo;2
+R94:Resultados Anormais de Estudos de Funcao;1
+R95:Sindrome da Morte Subita na Infancia;0
+R96:Outras Mortes Subitas de Causa Desconhecida;0
+R98:Morte sem Assistencia;0
+R99:Outras Causas Mal Definidas e as Nao Especificadas de Mortalidade;0
+Capítulo XIX: Lesoes, envenenamento e algumas outras conseqüências de causas externas (S00-T98);486451
+S00:Traumatismo Superficial da Cabeca;288
+S01:Ferimento da Cabeca;774
+S02:Fratura do Cranio e dos Ossos da Face;5036
+S03:Luxacao, Entorse ou Distensao das Articulacoes e dos Ligamentos da Cabeca;140
+S04:Traumatismo dos Nervos Cranianos;115
+S05:Traumatismo do Olho e da Orbita Ocular;1055
+S06:Traumatismo Intracraniano;8384
+S07:Lesoes por Esmagamento da Cabeca;19
+S08:Amputacao Traumatica de Parte da Cabeca;10
+S09:Outros Traumatismos da Cabeca e Os Nao Especificados;622
+S10:Traumatismo Superficial do Pescoco;45
+S11:Ferimento do Pescoco;145
+S12:Fratura do Pescoco;1709
+S13:Luxacao, Entorse ou Distensao das Articulacoes e dos Ligamentos do Pescoco;179
+S14:Traumatismo de Nervos e da Medula Espinhal ao Nivel Cervical;801
+S15:Traumatismo dos Vasos Sanguineos ao Nivel do Pescoco;25
+S16:Traumatismo de Tendoes e de Musculos do Pescoco;15
+S17:Lesoes por Esmagamento do Pescoco;12
+S18:Amputacao Traumatica ao Nivel do Pescoco;0
+S19:Outros Traumatismos do Pescoco e Os Nao Especificados;54
+S20:Traumatismo Superficial do Torax;769
+S21:Ferimento do Torax;437
+S22:Fratura de Costela(s), Esterno e Coluna Toracica;8318
+S23:Luxacao, Entorse e Distensao de Articulacoes e dos Ligamentos do Torax;108
+S24:Traumatismos de Nervos e da Medula Espinhal ao Nivel do Torax;123
+S25:Traumatismo de Vasos Sanguineos do Torax;42
+S26:Traumatismo do Coracao;8
+S27:Traumatismo de Outros Orgaos Intratoracicos e dos Nao Especificados;721
+S28:Lesao por Esmagamento do Torax e Amputacao Traumatica de Parte do Torax;3
+S29:Outros Traumatismos do Torax e Os Nao Especificados;272
+S30:Traumatismo Superficial do Abdome, do Dorso e da Pelve;445
+S31:Ferimento do Abdome, do Dorso e da Pelve;1008
+S32:Fratura da Coluna Lombar e da Pelve;9151
+S33:Luxacao, Entorse ou Distensao das Articulacoes e dos Ligamentos da Coluna Lombar e da Pelve;547
+S34:Traumatismo dos Nervos e da Medula Lombar ao Nivel do Abdome, do Dorso e da Pelve;103
+S35:Traumatismo de Vasos Sanguineos ao Nivel do Abdome, do Dorso e da Pelve;47
+S36:Traumatismo de Orgaos Intra-Abdominais;1650
+S37:Traumatismo do Aparelho Urinario e de Orgaos Pelvicos;273
+S38:Lesao por Esmagamento e Amputacao Traumatica de Parte do Abdome, do Dorso e da Pelve;29
+S39:Outros Traumatismos e Os Nao Especificados do Abdome, do Dorso e da Pelve;190
+S40:Traumatismo Superficial do Ombro e do Braco;1261
+S41:Ferimento do Ombro e do Braco;382
+S42:Fratura do Ombro e do Braco;37994
+S43:Luxacao, Entorse e Distensao das Articulacoes e dos Ligamentos da Cintura Escapular;12328
+S44:Traumatismo de Nervos ao Nivel do Ombro e do Braco;174
+S45:Traumatismo dos Vasos Sanguineos ao Nivel do Ombro e do Braco;57
+S46:Traumatismo de Tendao e Musculo ao Nivel do Ombro e do Braco;1317
+S47:Lesao por Esmagamento do Ombro e do Braco;19
+S48:Amputacao Traumatica do Ombro e do Braco;47
+S49:Outros Traumatismos e Os Nao Especificados do Ombro e do Braco;157
+S50:Traumatismo Superficial do Cotovelo e do Antebraco;817
+S51:Ferimento do Antebraco;1026
+S52:Fratura do Antebraco;53509
+S53:Luxacao, Entorse e Distensao das Articulacoes e dos Ligamentos do Cotovelo;2102
+S54:Traumatismo de Nervos ao Nivel do Antebraco;281
+S55:Traumatismo de Vasos Sanguineos ao Nivel do Antebraco;62
+S56:Traumatismo do Musculo e Tendao ao Nivel do Antebraco;529
+S57:Lesao por Esmagamento do Antebraco;31
+S58:Amputacao Traumatica do Cotovelo e do Antebraco;66
+S59:Outros Traumatismos do Antebraco e Os Nao Especificados;223
+S60:Traumatismo Superficial do Punho e da Mao;3150
+S61:Ferimento do Punho e da Mao;6867
+S62:Fratura ao Nivel do Punho e da Mao;60274
+S63:Luxacao, Entorse e Distensao das Articulacoes e dos Ligamentos ao Nivel do Punho e da Mao;3654
+S64:Traumatismo de Nervos ao Nivel do Punho e da Mao;604
+S65:Traumatismo de Vasos Sanguineos ao Nivel do Punho e da Mao;88
+S66:Traumatismo de Musculo e Tendao ao Nivel do Punho e da Mao;5443
+S67:Lesao por Esmagamento do Punho e da Mao;295
+S68:Amputacao Traumatica ao Nivel do Punho e da Mao;4485
+S69:Outros Traumatismos e Os Nao Especificados do Punho e da Mao;626
+S70:Traumatismo Superficial do Quadril e da Coxa;514
+S71:Ferimento do Quadril e da Coxa;638
+S72:Fratura do Femur;13165
+S73:Luxacao, Entorse e Distensao da Articulacao e dos Ligamentos do Quadril;453
+S74:Traumatismo de Nervos ao Nivel do Quadril e da Coxa;51
+S75:Traumatismo de Vasos Sanguineos ao Nivel do Quadril e da Coxa;47
+S76:Traumatismo de Musculo e de Tendao ao Nivel do Quadril e da Coxa;496
+S77:Lesao por Esmagamento do Quadril e da Coxa;31
+S78:Amputacao Traumatica do Quadril e da Coxa;189
+S79:Outros Traumatismos e Os Nao Especificados do Quadril e da Coxa;126
+S80:Traumatismo Superficial da Perna;4095
+S81:Ferimento da Perna;3926
+S82:Fratura da Perna, Incluindo Tornozelo;79462
+S83:Luxacao, Entorse e Distensao das Articulacoes e dos Ligamentos do Joelho;26827
+S84:Traumatismo de Nervos Perifericos da Perna;112
+S85:Traumatismo de Vasos Sanguineos da Perna;79
+S86:Traumatismos de Musculo e de Tendao ao Nivel da Perna;5339
+S87:Traumatismo por Esmagamento da Perna;74
+S88:Amputacao Traumatica da Perna;425
+S89:Outros Traumatismos e Os Nao Especificados da Perna;391
+S90:Traumatismo Superficial do Tornozelo e do Pe;3218
+S91:Ferimentos do Tornozelo e do Pe;4456
+S92:Fratura do Pe (Exceto do Tornozelo);51563
+S93:Luxacao, Entorse e Distensao das Articulacoes e dos Ligamentos ao Nivel do Tornozelo e do Pe;16449
+S94:Traumatismo dos Nervos ao Nivel do Tornozelo e do Pe;181
+S95:Traumatismo de Vasos Sanguineos ao Nivel do Tornozelo e do Pe;31
+S96:Traumatismos do Musculo e Tendao ao Nivel do Tornozelo e do Pe;1052
+S97:Lesao por Esmagamento do Tornozelo e do Pe;151
+S98:Amputacao Traumatica do Tornozelo e do Pe;982
+S99:Outros Traumatismos e Os Nao Especificados do Tornozelo e do Pe;436
+T00:Traumatismos Superficiais Envolvendo Multiplas Regioes do Corpo;369
+T01:Ferimentos Envolvendo Multiplas Regioes do Corpo;716
+T02:Fraturas Envolvendo Multiplas Regioes do Corpo;717
+T03:Luxacoes, Entorses e Distensoes Envolvendo Regioes Multiplas do Corpo;37
+T04:Traumatismos por Esmagamento Envolvendo Multiplas Regioes do Corpo;54
+T05:Amputacoes Traumaticas Envolvendo Multiplas Regioes do Corpo;21
+T06:Outros Traumatismos Envolvendo Regioes Multiplas do Corpo, Nao Classificados em Outra Parte;240
+T07:Traumatismos Multiplos Nao Especificados;2934
+T08:Fratura da Coluna, Nivel Nao Especificado;693
+T09:Outros Traumatismos de Coluna e Tronco, Nivel Nao Especificado;254
+T10:Fratura do Membro Superior, Nivel Nao Especificado;503
+T11:Outros Traumatismos de Membro Superior, Nivel Nao Especificado;469
+T12:Fratura do Membro Inferior, Nivel Nao Especificado;606
+T13:Outros Traumatismos de Membro Inferior, Nivel Nao Especificado;964
+T14:Traumatismo de Regiao Nao Especificada do Corpo;1823
+T15:Corpo Estranho na Parte Externa do Olho;57
+T16:Corpo Estranho no Ouvido;2
+T17:Corpo Estranho no Trato Respiratorio;13
+T18:Corpo Estranho no Aparelho Digestivo;67
+T19:Corpo Estranho no Trato Geniturinario;23
+T20:Queimadura e Corrosao da Cabeca e Pescoco;230
+T21:Queimadura e Corrosao do Tronco;340
+T22:Queimadura e Corrosao do Ombro e Membro Superior, Exceto Punho e Mao;305
+T23:Queimadura e Corrosao do Punho e da Mao;756
+T24:Queimadura e Corrosao do Quadril e Membro Inferior, Exceto Tornozelo e do Pe;459
+T25:Queimadura e Corrosao do Tornozelo e do Pe;567
+T26:Queimadura e Corrosao Limitadas ao Olho e Seus Anexos;34
+T27:Queimadura e Corrosao do Trato Respiratorio;2
+T28:Queimadura e Corrosao de Outros Orgaos Internos;14
+T29:Queimaduras e Corrosoes de Multiplas Regioes do Corpo;639
+T30:Queimadura e Corrosao, Parte Nao Especificada do Corpo;1118
+T31:Queimaduras Classificadas Segundo a Extensao da Superficie Corporal Atingida;410
+T32:Corrosoes Classificadas Segundo a Extensao da Superficie Corporal Atingida;6
+T33:Geladura Superficial;4
+T34:Geladura com Necrose de Tecidos;20
+T35:Geladura de Multiplas Partes do Corpo e das Nao Especificadas;2
+T36:Intoxicacao por Antibioticos Sistemicos;0
+T37:Intoxicacao por Outras Substancias Antiinfecciosas ou Antiparasitarias Sistemicas;0
+T38:Intoxicacao por Hormonios, Seus Substitutos Sinteticos e Seus Antagonistas Nao Classificados em Outra Parte;2
+T39:Intoxicacao por Analgesicos, Antipireticos e Anti-Reumaticos Nao-Opiaceos;2
+T40:Intoxicacao por Narcoticos e Psicodislepticos [Alucinogenos];13
+T41:Intoxicacao por Anestesicos e Gases Terapeuticos;1
+T42:Intoxicacao por Antiepilepticos, Sedativos-Hipnoticos e Antiparkinsonianos;8
+T43:Intoxicacao por Drogas Psicotropicas Nao Classificadas em Outra Parte;16
+T44:Intoxicacao por Drogas Que Afetam Principalmente O Sistema Nervoso Autonomo;8
+T45:Intoxicacao por Substancias de Acao Essencialmente Sistemica e Substancias Hematologicas, Nao Classificadas em Outra Parte;2
+T46:Intoxicacao por Substancias Que Atuam Primariamente Sobre O Aparelho Circulatorio;3
+T47:Intoxicacao por Substancias Que Atuam Primariamente Sobre O Aparelho Gastrointestinal;2
+T48:Intoxicacao por Substancias Que Atuam Primariamente Sobre Os Musculos Lisos e Esqueleticos e Sobre O Aparelho Respiratorio;3
+T49:Intoxicacao por Substancias de Uso Topico Que Atuam Primariamente Sobre a Pele e as Mucosas e por Medicamentos Utilizados em Oftalmologia, Otorrinolar;2
+T50:Intoxicacao por Diureticos e Outras Drogas, Medicamentos e Substancias Biologicas e as Nao Especificadas;21
+T51:Efeito Toxico do Alcool;3
+T52:Efeito Toxico de Solventes Organicos;5
+T53:Efeito Toxico de Derivados Halogenicos de Hidrocarbonetos Alifaticos e Aromaticos;3
+T54:Efeito Toxico de Corrosivos;11
+T55:Efeito Toxico de Saboes e Detergentes;0
+T56:Efeito Toxico de Metais;1
+T57:Efeito Toxico de Outras Substancias Inorganicas;1
+T58:Efeito Toxico de Monoxido de Carbono;2
+T59:Efeito Toxico de Outros Gases, Fumacas e Vapores;4
+T60:Efeito Toxico de Pesticidas;22
+T61:Efeito Toxico de Substancias Nocivas Consumidas Como Fruto do Mar;0
+T62:Efeito Toxico de Outras Substancias Nocivas Ingeridas Como Alimento;0
+T63:Efeito Toxico de Contato com Animais Venenosos;235
+T64:Efeito Toxico da Aflatoxina e de Outras Micotoxinas Contaminantes de Alimentos;1
+T65:Efeito Toxico de Outras Substancias e as Nao Especificadas;15
+T66:Efeitos Nao Especificados de Radiacao;1
+T67:Efeitos do Calor e da Luz;26
+T68:Hipotermia;0
+T69:Outros Efeitos da Temperatura Reduzida;0
+T70:Efeitos da Pressao Atmosferica e da Pressao da Agua;7
+T71:Asfixia;1
+T73:Efeitos de Outras Privacoes;3
+T74:Sindromes de Maus Tratos;41
+T75:Efeitos de Outras Causas Externas;33
+T78:Efeitos Adversos Nao Classificados em Outra Parte;177
+T79:Algumas Complicacoes Precoces dos Traumatismos Nao Classificadas em Outra Parte;83
+T80:Complicacoes Consequentes a Infusao, Transfusao ou Injecao Terapeutica;6
+T81:Complicacoes de Procedimentos Nao Classificadas em Outra Parte;607
+T82:Complicacoes de Dispositivos Proteticos, Implantes e Enxertos Cardiacos e Vasculares;26
+T83:Complicacoes de Dispositivos Proteticos, Implantes e Enxertos Geniturinarios Internos;21
+T84:Complicacoes de Dispositivos Proteticos, Implantes e Enxertos Ortopedicos Internos;348
+T85:Complicacoes de Outros Dispositivos Proteticos, Implantes e Enxertos Internos;128
+T86:Falha e Rejeicao de Orgaos e Tecidos Transplantados;14
+T87:Complicacoes Proprias de Reimplante e Amputacao;134
+T88:Outras Complicacoes de Cuidados Medicos e Cirurgicos Nao Classificadas em Outra Parte;247
+T90:Sequelas de Traumatismo da Cabeca;836
+T91:Sequelas de Traumatismos do Pescoco e do Tronco;544
+T92:Sequelas de Traumatismos do Membro Superior;3149
+T93:Sequelas de Traumatismos do Membro Inferior;4304
+T94:Sequelas de Traumatismos Envolvendo Multiplas Regioes do Corpo e as Nao Especificadas;91
+T95:Sequelas de Queimaduras, Corrosoes e Geladuras;136
+T96:Sequelas de Intoxicacao por Drogas, Medicamentos e Substancias Biologicas;8
+T97:Sequelas de Efeitos Toxicos de Substancias de Origem Predominantemente Nao-Medicinal;4
+T98:Sequelas de Outros Efeitos de Causas Externas e dos Nao Especificados;3123
+Capítulo XX: Causas externas de morbidade e de mortalidade (V01-Y98);4550
+U04:Sindrome Respiratoria Aguda Grave [Severe Acute Respiratory Syndrome Sars];0
+U80:Agente Resistente a Penicilina e Antibioticos Relacionados;0
+U81:Agente Resistente a Vancomicina e Antibioticos Relacionados;0
+U88:Agente Resistente a Multiplos Antibioticos;0
+U89:Agente Resistente a Outros Antibioticos e a Antibioticos Nao Especificados;0
+U99:Cid 10? Revisao Nao Disponivel;0
+V01:Pedestre Traumatizado em Colisao com Um Veiculo a Pedal;5
+V02:Pedestre Traumatizado em Colisao com Um Veiculo a Motor de Duas ou Tres Rodas;7
+V03:Pedestre Traumatizado em Colisao com Um Automovel [Carro],  Pick Up  ou Caminhonete;16
+V04:Pedestre Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou com Um Onibus;0
+V05:Pedestre Traumatizado em Colisao com Trem [Comboio] ou Um Veiculo Ferroviario;0
+V06:Pedestre Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V09:Pedestre Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;17
+V10:Ciclista Traumatizado em Colisao com Um Pedestre ou Um Animal;0
+V11:Ciclista Traumatizado em Colisao com Outro Veiculo a Pedal;3
+V12:Ciclista Traumatizado em Colisao com Um Veiculo a Motor de Duas ou Tres Rodas;1
+V13:Ciclista Traumatizado em Colisao com Um Automovel,  Pick Up  ou Caminhonete;3
+V14:Ciclista Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;2
+V15:Ciclista Traumatizado em Colisao com Um Trem ou Um Veiculo Ferroviario;0
+V16:Ciclista Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V17:Ciclista Traumatizado em Colisao com Um Objeto Fixo ou Parado;1
+V18:Ciclista Traumatizado em Um Acidente de Transporte sem Colisao;10
+V19:Ciclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;11
+V20:Motociclista Traumatizado em Colisao com Um Pedestre ou Um Animal;32
+V21:Motociclista Traumatizado em Colisao com Um Veiculo a Pedal;7
+V22:Motociclista Traumatizado em Colisao com Um Veiculo a Motor de Duas ou Tres Rodas;35
+V23:Motociclista Traumatizado em Colisao com Um Automovel [Carro],  Pick Up  ou Caminhonete;78
+V24:Motociclista Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;8
+V25:Motociclista Traumatizado em Colisao com Um Trem ou Um Veiculo Ferroviario;0
+V26:Motociclista Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;7
+V27:Motociclista Traumatizado em Colisao com Um Objeto Fixo ou Parado;33
+V28:Motociclista Traumatizado em Um Acidente de Transporte sem Colisao;87
+V29:Motociclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;287
+V30:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Pedestre ou Um Animal;0
+V31:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Veiculo a Pedal;0
+V32:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Outro Veiculo a Motor de Duas ou Tres Rodas;0
+V33:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Automovel,  Pick Up  ou Caminhonete;0
+V34:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;0
+V35:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Trem [Comboio] ou Um Veiculo Ferroviario;2
+V36:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V37:Ocupante de Um Triciclo Motorizado Traumatizado em Colisao com Um Objeto Fixo ou Parado;0
+V38:Ocupante de Um Triciclo Motorizado Traumatizado em Um Acidente de Transporte sem Colisao;0
+V39:Ocupante de Um Triciclo Motorizado Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;13
+V40:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Pedestre ou Um Animal;3
+V41:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Veiculo a Pedal;0
+V42:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Outro Veiculo a Motor de Duas ou Tres Rodas;3
+V43:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Automovel [Carro],  Pick Up  ou Caminhonete;10
+V44:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;4
+V45:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Trem [Comboio] ou Um Veiculo Ferroviario;1
+V46:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V47:Ocupante de Um Automovel [Carro] Traumatizado em Colisao com Um Objeto Fixo ou Parado;7
+V48:Ocupante de Um Automovel [Carro] Traumatizado em Um Acidente de Transporte sem Colisao;11
+V49:Ocupante de Um Automovel [Carro] Traumatizado em Outro Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;6
+V50:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Pedestre ou Um Animal;0
+V51:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Veiculo a Pedal;0
+V52:Ocupante de Uma Caminhonete Traumatizado em Colisao com Veiculo a Motor de Duas ou Tres Rodas;1
+V53:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Automovel [Carro] ou Uma Caminhoneta;0
+V54:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;0
+V55:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Trem [Comboio] ou Veiculo Ferroviario;0
+V56:Ocupante de Uma Caminhonete Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V57:Ocupante de Uma Caminhonete Traumatizado em Colisao com Um Objeto Fixo ou Parado;0
+V58:Ocupante de Uma Caminhonete Traumatizado em Um Acidente de Transporte sem Colisao;0
+V59:Ocupante de Uma Caminhonete Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;1
+V60:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Pedestre ou Um Animal;0
+V61:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Veiculo a Pedal;1
+V62:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Veiculo a Motor de Duas ou Tres Rodas;0
+V63:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Automovel [Carro] ou Uma Caminhonete;0
+V64:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Outro Veiculo de Transporte Pesado ou Um Onibus;1
+V65:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Trem [Comboio] ou Um Veiculo Ferroviario;0
+V66:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Outro Veiculo Nao-Motorizado;0
+V67:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Colisao com Um Objeto Fixo ou Parado;2
+V68:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Um Acidente de Transporte sem Colisao;1
+V69:Ocupante de Um Veiculo de Transporte Pesado Traumatizado em Outros Acidentes de Transporte Nao Especificados;3
+V70:Ocupante de Um Onibus Traumatizado em Colisao com Um Pedestre ou Um Animal;0
+V71:Ocupante de Um Onibus Traumatizado em Colisao com Um Veiculo a Pedal;0
+V72:Ocupante de Um Onibus Traumatizado em Colisao com Um Outro Veiculo a Motor de Duas ou Tres Rodas;0
+V73:Ocupante de Um Onibus Traumatizado em Colisao com Um Automovel [Carro] ou Uma Caminhonete;0
+V74:Ocupante de Um Onibus Traumatizado em Colisao com Um Veiculo de Transporte Pesado ou Um Onibus;0
+V75:Ocupante de Um Onibus Traumatizado em Colisao com Um Trem [Comboio] ou Um Veiculo Ferroviario;0
+V76:Ocupante de Um Onibus Traumatizado em Colisao com Outro Veiculo Nao-Motorizado;0
+V77:Ocupante de Um Onibus Traumatizado em Colisao com Um Objeto Fixo ou Parado;0
+V78:Ocupante de Um Onibus Traumatizado em Um Acidente de Transporte sem Colisao;0
+V79:Ocupante de Um Onibus Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Nao Especificados;1
+V80:Pessoa Montada em Animal ou Ocupante de Um Veiculo a Tracao Animal Traumatizado em Um Acidente de Transporte;6
+V81:Ocupante de Um Trem [Comboio] ou Um Veiculo Ferroviario Traumatizado em Um Acidente de Transporte;1
+V82:Ocupante de Um Bonde [Carro Eletrico] Traumatizado em Um Acidente de Transporte;0
+V83:Ocupante de Um Veiculo Especial a Motor Usado Principalmente em Areas Industriais Traumatizado em Um Acidente de Transporte;1
+V84:Ocupante de Um Veiculo Especial a Motor de Uso Essencialmente Agricola Traumatizado em Um Acidente de Transporte;0
+V85:Ocupante de Um Veiculo a Motor Especial de Construcoes Traumatizado em Um Acidente de Tansporte;0
+V86:Ocupante de Um Veiculo Especial para Qualquer Terreno ou de Outro Veiculo a Motor Projetado Essencialmente para Uso Nao em Via Publica, Traumatizado E;1
+V87:Acidente de Transito de Tipo Especificado, Mas Sendo Desconhecido O Modo de Transporte da Vitima;53
+V88:Acidente Nao-De-Transito de Tipo Especificado, Mas Sendo Desconhecido O Modo de Transporte da Vitima;3
+V89:Acidente com Um Veiculo a Motor ou Nao-Motorizado, Tipo(s) de Veiculo(s) Nao Especificado(s);33
+V90:Acidente com Embarcacao Causando Afogamento e Submersao;0
+V91:Acidente com Embarcacao Causando Outro Tipo de Traumatismo;3
+V92:Afogamento e Submersao Relacionados com Transporte por Agua sem Acidente com a Embarcacao;0
+V93:Acidente a Bordo de Uma Embarcacao, sem Acidente da Embarcacao e Nao Causando Afogamento ou Submersao;5
+V94:Outros Acidentes de Transporte por Agua e Os Nao Especificados;0
+V95:Acidente de Aeronave a Motor Causando Traumatismo ao Ocupante;2
+V96:Acidente de Uma Aeronave sem Motor Causando Traumatismo a Ocupante;0
+V97:Outros Acidentes Especificados de Transporte Aereo;0
+V98:Outros Acidentes de Transporte Especificados;1
+V99:Acidente de Transporte Nao Especificado;41
+W00:Queda no Mesmo Nivel Envolvendo Gelo e Neve;0
+W01:Queda no Mesmo Nivel por Escorregao, Tropecao ou Passos em Falsos [Traspes];52
+W02:Queda Envolvendo Patins de Rodas ou para Gelo, Esqui ou Pranchas de Rodas;31
+W03:Outras Quedas no Mesmo Nivel por Colisao com ou Empurrao por Outra Pessoa;0
+W04:Queda, Enquanto Estava Sendo Carregado ou Apoiado por Outra(s) Pessoa(s);5
+W05:Queda Envolvendo Uma Cadeira de Rodas;0
+W06:Queda de Um Leito;2
+W07:Queda de Uma Cadeira;1
+W08:Queda de Outro Tipo de Mobilia;2
+W09:Queda Envolvendo Equipamento de  Playground ;0
+W10:Queda em ou de Escadas ou Degraus;18
+W11:Queda em ou de Escadas de Mao;4
+W12:Queda em ou de Um Andaime;8
+W13:Queda de ou para Fora de Edificios ou Outras Estruturas;19
+W14:Queda de Arvore;4
+W15:Queda de Penhasco;0
+W16:Mergulho ou Pulo na Agua Causando Outro Traumatismo Que Nao Afogamento ou Submersao;0
+W17:Outras Quedas de Um Nivel a Outro;23
+W18:Outras Quedas no Mesmo Nivel;3
+W19:Queda sem Especificacao;56
+W20:Impacto Causado por Objeto Lancado, Projetado ou em Queda;9
+W21:Impacto Acidental Ativo ou Passivo Causado por Equipamento Esportivo;3
+W22:Impacto Acidental Ativo ou Passivo Causado por Outros Objetos;6
+W23:Apertado, Colhido, Comprimido ou Esmagado Dentro de ou Entre Objetos;0
+W24:Contato com Elevadores e Instrumentos de Transmissao, Nao Classificados em Outra Parte;0
+W25:Contato com Vidro Cortante;8
+W26:Contato com Faca, Espada e Punhal;52
+W27:Contato com Ferramentas Manuais sem Motor;1
+W28:Contato com Segadeira Motorizada para Cortar ou Aparar a Grama;0
+W29:Contato com Outros Utensilios Manuais e Aparelhos Domesticos Equipados com Motor;4
+W30:Contato com Maquinaria Agricola;0
+W31:Contato com Outras Maquinas e com as Nao Especificadas;3
+W32:Projetil de Revolver;75
+W33:Rifle, Espingarda e Armas de Fogo de Maior Tamanho;17
+W34:Projeteis de Outras Armas de Fogo e das Nao Especificadas;213
+W35:Explosao ou Ruptura de Caldeira;0
+W36:Explosao ou Ruptura de Cilindro de Gas;0
+W37:Explosao ou Ruptura de Pneumatico, Tubulacao ou Mangueira, Pressurizados;1
+W38:Explosao ou Ruptura de Outros Aparelhos Pressurizados Especificados;0
+W39:Queima de Fogos de Artificio;9
+W40:Explosao de Outros Materiais;0
+W41:Exposicao a Um Jato de Alta Pressao;0
+W42:Exposicao ao Ruido;0
+W43:Exposicao a Vibracao;0
+W44:Penetracao de Corpo Estranho no ou Atraves de Olho ou Orificio Natural;5
+W45:Penetracao de Corpo ou Objeto Estranho Atraves da Pele;70
+W46:Contato com Agulha Hipodermica;0
+W49:Exposicao a Outras Forcas Mecanicas Inanimadas e as Nao Especificadas;0
+W50:Golpe, Pancada, Pontape, Mordedura ou Escoriacao Infligidos por Outra Pessoa;9
+W51:Colisao Entre Duas Pessoas;0
+W52:Esmagado, Empurrado ou Pisoteado por Multidao ou Debandada em Massa de Pessoas;0
+W53:Mordedura de Rato;0
+W54:Mordedura ou Golpe Provocado por Cao;205
+W55:Mordedura ou Golpe Provocado por Outros Animais Mamiferos;60
+W56:Contato com Animais Marinhos;8
+W57:Mordeduras e Picadas de Inseto e de Outros Artropodes, Nao-Venenosos;35
+W58:Mordedura ou Golpe Provocado por Crocodilo ou Aligator;0
+W59:Mordedura ou Esmagamento Provocado por Outros Repteis;31
+W60:Contato com Espinhos de Plantas ou com Folhas Agucadas;0
+W64:Exposicao a Outras Forcas Mecanicas Animadas e as Nao Especificadas;2
+W65:Afogamento e Submersao Durante Banho em Banheira;0
+W66:Afogamento e Submersao Consecutiva a Queda Dentro de Uma Banheira;1
+W67:Afogamento e Submersao em Piscina;0
+W68:Afogamento e Submersao Consequente a Queda Dentro de Uma Piscina;0
+W69:Afogamento e Submersao em Aguas Naturais;3
+W70:Afogamento e Submersao Consequentes a Queda Dentro de Aguas Naturais;3
+W73:Outros Afogamentos e Submersao Especificados;0
+W74:Afogamento e Submersao Nao Especificados;1
+W75:Sufocacao e Estrangulamento Acidental na Cama;0
+W76:Outro Enforcamento e Estrangulamento Acidental;0
+W77:Risco a Respiracao Devido a Desmoronamento, Queda de Terra e de Outras Substancias;2
+W78:Inalacao do Conteudo Gastrico;2
+W79:Inalacao e Ingestao de Alimentos Causando Obstrucao do Trato Respiratorio;0
+W80:Inalacao e Ingestao de Outros Objetos Causando Obstrucao do Trato Respiratorio;0
+W81:Confinado ou Aprisionado em Um Ambiente Pobre em Oxigenio;1
+W83:Outros Riscos Especificados a Respiracao;0
+W84:Riscos Nao Especificados a Respiracao;2
+W85:Exposicao a Linhas de Transmissao de Corrente Eletrica;1
+W86:Exposicao a Outra Corrente Eletrica Especificada;4
+W87:Exposicao a Corrente Eletrica Nao Especificada;44
+W88:Exposicao a Radiacao Ionizante;0
+W89:Exposicao a Fontes Luminosas Artificais Visiveis ou a Luz Ultravioleta;0
+W90:Exposicao a Outros Tipos de Radiacao Nao-Ionizante;0
+W91:Exposicao a Tipo Nao Especificado de Radiacao;0
+W92:Exposicao a Um Calor Excessivo de Origem Artificial;0
+W93:Exposicao a Um Frio Excessivo de Origem Artificial;0
+W94:Exposicao a Alta, Baixa e a Variacoes da Pressao Atmosferica;0
+W99:Exposicao a Outros Fatores Ambientais Artificiais e Aos Nao Especificados;3
+X00:Exposicao a Fogo Nao-Controlado em Um Edificio ou Outro Tipo de Construcao;1
+X01:Exposicao a Fogo Nao-Controlado Fora de Um Edificio ou de Outro Tipo de Construcao;0
+X02:Exposicao a Fogo Controlado em Um Edificio ou Outro Tipo de Construcao;0
+X03:Exposicao a Fogo Controlado Fora de Um Edificio ou de Outro Tipo de Construcao;0
+X04:Exposicao a Combustao de Substancia Muito Inflamavel;2
+X05:Exposicao a Combustao de Roupa de Dormir;0
+X06:Exposicao a Combustao de Outro Tipo de Roupa ou de Acessorios;0
+X08:Exposicao a Outro Tipo Especificado de Fumacas, Fogo ou Chamas;1
+X09:Exposicao a Tipo Nao Especificado de Fumacas, Fogo ou Chamas;0
+X10:Contato com Bebidas, Alimentos, Gordura e Oleo de Cozinha Quentes;1
+X11:Contato com Agua Corrente Quente de Torneira;0
+X12:Contato com Outros Liquidos Quentes;3
+X13:Contato com Vapor D Agua e com Vapores Quentes;1
+X14:Contato com Ar e Gases Quentes;0
+X15:Contato com Aparelhos Domesticos Quentes;0
+X16:Contato com Aquecedores, Radiadores e Tubulacao;0
+X17:Contato com Motores, Maquinas e Ferramentos Quentes;0
+X18:Contato com Outros Metais Quentes;1
+X19:Contato com Outras Fontes de Calor ou com Substancias Quentes Nao Especificados;1
+X20:Contato com Serpentes e Lagartos Venenosos;153
+X21:Contato com Aranhas Venenosas;38
+X22:Contato com Escorpioes;0
+X23:Contato com Abelhas, Vespas e Vespoes;1
+X24:Contato com Centopeias e Miriapodes Venenosas (Tropicais);0
+X25:Contato com Outros Artropodes Venenosos Especificados;1
+X26:Contato com Animais e Plantas Marinhos Venenosos;4
+X27:Contato com Outros Animais Venenosos Especificados;8
+X28:Contato com Outras Plantas Venenosas Especificadas;0
+X29:Contato com Animais ou Plantas Venenosos, sem Especificacao;30
+X30:Exposicao a Calor Natural Excessivo;0
+X31:Exposicao a Frio Natural Excessivo;0
+X32:Exposicao a Luz Solar;1
+X33:Vitima de Raio;3
+X34:Vitima de Terremoto;0
+X35:Vitima de Erupcao Vulcanica;0
+X36:Vitima de Avalanche, Desabamento de Terra e Outros Movimentos da Superficie Terrestre;0
+X37:Vitima de Tempestade Cataclismica;0
+X38:Vitima de Inundacao;0
+X39:Exposicao a Outras Forcas da Natureza e as Nao Especificadas;0
+X40:Envenenamento [Intoxicacao] Acidental por e Exposicao a Analgesicos, Antipireticos e Anti-Reumaticos, Nao-Opiaceos;2
+X41:Envenenamento [Intoxicacao] Acidental por e Exposicao a Anticonvulsivantes [Antiepilepticos], Sedativos, Hipnoticos, Antiparkinsonianos e Psicotropico;0
+X42:Envenenamento [Intoxicacao] Acidental por e Exposicao a Narcoticos e Psicodislepticos [Alucinogenos] Nao Classificados em Outra Parte;0
+X43:Envenenamento [Intoxicacao] Acidental por e Exposicao a Outras Substancias Farmacologicas de Acao Sobre O Sistema Nervoso Autonomo;2
+X44:Envenenamento [Intoxicacao] Acidental por e Exposicao a Outras Drogas, Medicamentos e Substancias Biologicas Nao Especificadas;1
+X45:Envenenamento [Intoxicacao] Acidental por e Exposicao ao Alcool;0
+X46:Envenenamento [Intoxicacao] Acidental por e Exposicao a Solventes Organicos e Hidrocarbonetos Halogenados e Seus Vapores;1
+X47:Intoxicacao Acidental por e Exposicao a Outros Gases e Vapores;3
+X48:Envenenamento [Intoxicacao] Acidental por e Exposicao a Pesticidas;6
+X49:Envenenamento [Intoxicacao] Acidental por e Exposicao a Outras Substancias Quimicas Nocivas e as Nao Especificadas;2
+X50:Excesso de Exercicios e Movimentos Vigorosos ou Repetitivos;1
+X51:Viagem e Movimento;0
+X52:Estadia Prolongada em Ambiente Agravitacional;0
+X53:Falta de Alimento;0
+X54:Falta de Agua;1
+X57:Privacao Nao Especificada;0
+X58:Exposicao a Outros Fatores Especificados;2
+X59:Exposicao a Fatores Nao Especificados;2
+X60:Auto-Intoxicacao por e Exposicao, Intencional, a Analgesicos, Antipireticos e Anti-Reumaticos, Nao-Opiaceos;5
+X61:Auto-Intoxicacao por e Exposicao, Intencional, a Drogas Anticonvulsivantes [Antiepilepticos] Sedativos, Hipnoticos, Antiparkinsonianos e Psicotropicos;4
+X62:Auto-Intoxicacao por e Exposicao, Intencional, a Narcoticos e Psicodislepticos [Alucinogenos] Nao Classificados em Outra Parte;5
+X63:Auto-Intoxicacao por e Exposicao, Intencional, a Outras Substancias Farmacologicas de Acao Sobre O Sistema Nervoso Autonomo;3
+X64:Auto-Intoxicacao por e Exposicao, Intencional, a Outras Drogas, Medicamentos e Substancias Biologicas e as Nao Especificadas;8
+X65:Auto-Intoxicacao Voluntaria por Alcool;1
+X66:Auto-Intoxicacao Intencional por Solventes Organicos, Hidrocarbonetos Halogenados e Seus Vapores;2
+X67:Auto-Intoxicacao Intencional por Outros Gases e Vapores;0
+X68:Auto-Intoxicacao por e Exposicao, Intencional, a Pesticidas;6
+X69:Auto-Intoxicacao por e Exposicao, Intencional, a Outros Produtos Quimicos e Substancias Nocivas Nao Especificadas;5
+X70:Lesao Autoprovocada Intencionalmente por Enforcamento, Estrangulamento e Sufocacao;5
+X71:Lesao Autoprovocada Intencionalmente por Afogamento e Submersao;0
+X72:Lesao Autoprovocada Intencionalmente por Disparo de Arma de Fogo de Mao;7
+X73:Lesao Autoprovocada Intencionalmente por Disparo de Espingarda, Carabina, ou Arma de Fogo de Maior Calibre;0
+X74:Lesao Autoprovocada Intencionalmente por Disparo de Outra Arma de Fogo e de Arma de Fogo Nao Especificada;1
+X75:Lesao Autoprovocada Intencionalmente por Dispositivos Explosivos;1
+X76:Lesao Autoprovocada Intencionalmente Pela Fumaca, Pelo Fogo e por Chamas;2
+X77:Lesao Autoprovocada Intencionalmente por Vapor de Agua, Gases ou Objetos Quentes;0
+X78:Lesao Autoprovocada Intencionalmente por Objeto Cortante ou Penetrante;18
+X79:Lesao Autoprovocada Intencionalmente por Objeto Contundente;1
+X80:Lesao Autoprovocada Intencionalmente por Precipitacao de Um Lugar Elevado;1
+X81:Lesao Autoprovocada Intencionalmente por Precipitacao ou Permanencia Diante de Um Objeto em Movimento;0
+X82:Lesao Autoprovocada Intencionalmente por Impacto de Um Veiculo a Motor;0
+X83:Lesao Autoprovocada Intencionalmente por Outros Meios Especificados;1
+X84:Lesao Autoprovocada Intencionalmente por Meios Nao Especificados;7
+X85:Agressao por Meio de Drogas, Medicamentos e Substancias Biologicas;0
+X86:Agressao por Meio de Substancias Corrosivas;0
+X87:Agressao por Pesticidas;0
+X88:Agressao por Meio de Gases e Vapores;1
+X89:Agressao por Meio de Outros Produtos Quimicos e Substancias Nocivas Especificados;0
+X90:Agressao por Meio de Produtos Quimicos e Substancias Nocivas Nao Especificados;1
+X91:Agressao por Meio de Enforcamento, Estrangulamento e Sufocacao;0
+X92:Agressao por Meio de Afogamento e Submersao;0
+X93:Agressao por Meio de Disparo de Arma de Fogo de Mao;459
+X94:Agressao por Meio de Disparo de Espingarda, Carabina ou Arma de Fogo de Maior Calibre;39
+X95:Agressao por Meio de Disparo de Outra Arma de Fogo ou de Arma Nao Especificada;116
+X96:Agressao por Meio de Material Explosivo;1
+X97:Agressao por Meio de Fumaca, Fogo e Chamas;0
+X98:Agressao por Meio de Vapor de Agua, Gases ou Objetos Quentes;0
+X99:Agressao por Meio de Objeto Cortante ou Penetrante;294
+Y00:Agressao por Meio de Um Objeto Contundente;11
+Y01:Agressao por Meio de Projecao de Um Lugar Elevado;0
+Y02:Agressao por Meio de Projecao ou Colocacao da Vitima Diante de Um Objeto em Movimento;0
+Y03:Agressao por Meio de Impacto de Um Veiculo a Motor;8
+Y04:Agressao por Meio de Forca Corporal;29
+Y05:Agressao Sexual por Meio de Forca Fisica;5
+Y06:Negligencia e Abandono;0
+Y07:Outras Sindromes de Maus Tratos;0
+Y08:Agressao por Outros Meios Especificados;5
+Y09:Agressao por Meios Nao Especificados;7
+Y10:Envenenamento [Intoxicacao] por e Exposicao a Analgesicos, Antipireticos e Anti-Reumaticos Nao-Opiaceos, Intencao Nao Determinada;1
+Y11:Envenenamento [Intoxicacao] por e Exposicao a Anticonvulsivantes [Antiepilepticos], Sedativos, Hipnoticos, Antiparkinsonianos e Psicotropicos Nao Clas;0
+Y12:Envenenamento [Intoxicacao] por e Exposicao a Narcoticos e a Psicodislepticos [Alucinogenos] Nao Classificados em Outra Parte, Intencao Nao Determinad;0
+Y13:Envenenamento [Intoxicacao] por e Exposicao a Outras Substancias Farmacologicas de Acao Sobre O Sistema Nervoso Autonomo, Intencao Nao Determinada;0
+Y14:Envenenamento [Intoxicacao] por e Exposicao a Outras Drogas, Medicamentos e Substancias Biologicas e as Nao Especificadas, Intencao Nao Determinada;0
+Y15:Envenenamento [Intoxicacao] por e Exposicao ao Alcool, Intencao Nao Determinada;0
+Y16:Envenenamento [Intoxicacao] por e Exposicao a Solventes Organicos e Hidrocarbonetos Halogenados e Seus Vapores, Intencao Nao Determinada;0
+Y17:Envenenamento [Intoxicacao] por e Exposicao a Outros Gases e Vapores, Intencao Nao Determinada;0
+Y18:Envenenamento [Intoxicacao] por e Exposicao a Pesticidas, Intencao Nao Determinada;0
+Y19:Envenenamento [Intoxicacao] por e Exposicao a Outros Produtos Quimicos e Substancias Nocivas e Aos Nao Especificados, Intencao Nao Determinada;7
+Y20:Enforcamento, Estrangulamento e Sufocacao, Intencao Nao Determinada;5
+Y21:Afogamento e Submersao, Intencao Nao Determinada;0
+Y22:Disparo de Pistola, Intencao Nao Determinada;3
+Y23:Disparo de Fuzil, Carabina e Arma de Fogo de Maior Calibre, Intencao Nao Determinada;1
+Y24:Disparo de Outra Arma de Fogo e de Arma de Fogo Nao Especificada, Intencao Nao Determinada;15
+Y25:Contato com Material Explosivo, Intencao Nao Determinada;0
+Y26:Exposicao a Fumaca, Fogo e Chamas, Intencao Nao Determinada;0
+Y27:Exposicao a Vapor de Agua, Gases ou Objetos Quentes, Intencao Nao Determinada;0
+Y28:Contato com Objeto Cortante ou Penetrante, Intencao Nao Determinada;16
+Y29:Contato com Objeto Contundente, Intencao Nao Determinada;0
+Y30:Queda, Salto ou Empurrado de Um Lugar Elevado, Intencao Nao Determinada;1
+Y31:Queda, Permanencia ou Corrida Diante de Um Objeto em Movimento, Intencao Nao Determinada;0
+Y32:Impacto de Um Veiculo a Motor, Intencao Nao Determinada;3
+Y33:Outros Fatos ou Eventos Especificados, Intencao Nao Determinada;1
+Y34:Fatos ou Eventos Nao Especificados e Intencao Nao Determinada;1
+Y35:Intervencao Legal;0
+Y36:Operacoes de Guerra;0
+Y40:Antibioticos Sistemicos;0
+Y41:Outros Antiinfecciosos e Antiparasitarios Sistemicos;1
+Y42:Hormonios e Seus Substitutos Sinteticos e Antagonistas, Nao Classificados em Outra Parte;3
+Y43:Substancias de Acao Primariamente Sistemica;0
+Y44:Substancias Farmacologicas Que Atuam Primariamente Sobre Os Constituintes do Sangue;23
+Y45:Substancias Analgesicas, Antipireticas e Antiinflamatorias;0
+Y46:Drogas Anticonvulsivantes (Anti-Epilepticas) e Antiparkinsonianas;0
+Y47:Sedativos, Hipnoticos e Tranquilizantes [Ansioliticos];1
+Y48:Anestesicos e Gases Terapeuticos;0
+Y49:Substancias Psicotropicas, Nao Classificadas em Outra Parte;2
+Y50:Estimulantes do Sistema Nervoso Central, Nao Classificados em Outra Parte;0
+Y51:Drogas Que Atuam Primariamente Sobre O Sistema Nervoso Autonomo;1
+Y52:Substancias Que Atuam Primariamente Sobre O Aparelho Cardiovascular;0
+Y53:Substancias Que Atuam Primariamente Sobre O Aparelho Gastrointestinal;0
+Y54:Substancias Que Atuam Primariamente Sobre O Metabolismo da Agua, dos Sais Minerais e do Acido Urico;5
+Y55:Substancias Que Atuam Primariamente Sobre Os Musculos Lisos e Esqueleticos e Sobre O Aparelho Respiratorio;0
+Y56:Substancias de Uso Topico Que Atuam Primariamente Sobre a Pele e as Membranas Mucosas e Drogas de Uso Oftalmologico, Otorrinolaringologico e Dentario;0
+Y57:Outras Drogas e Medicamentos e as Nao Especificadas;3
+Y58:Vacinas Bacterianas;1
+Y59:Outras Vacinas e Substancias Biologicas e as Nao Especificadas;1
+Y60:Corte, Puncao, Perfuracao ou Hemorragia Acidentais Durante a Prestacao de Cuidados Medicos ou Cirurgicos;7
+Y61:Objeto Estranho Deixado Acidentalmente no Corpo Durante a Prestacao de Cuidados Cirurgicos e Medicos;1
+Y62:Assepsia Insuficiente Durante a Prestacao de Cuidados Cirurgicos e Medicos;0
+Y63:Erros de Dosagem Durante a Prestacao de Cuidados Medicos e Cirurgicos;1
+Y64:Medicamentos ou Substancias Biologicas Contaminados;0
+Y65:Outros Acidentes Durante a Prestacao de Cuidados Medicos e Cirurgicos;2
+Y66:Nao Administracao de Cuidado Medico e Cirurgico;1
+Y69:Acidente Nao Especificado Durante a Prestacao de Cuidado Medico e Cirurgico;2
+Y70:Dispositivos (Aparelhos) de Anestesiologia, Associados a Incidentes Adversos;0
+Y71:Dispositivos (Aparelhos) Cardiovasculares, Associados a Incidentes Adversos;0
+Y72:Dispositivos (Aparelhos) Utilizados em Otorrinolaringologia, Associados a Incidentes Adversos;0
+Y73:Dispositivos (Aparelhos) Usados em Gastroenterologia e em Urologia, Associados a Incidentes Adversos;1
+Y74:Dispositivos (Aparelhos) Gerais de Uso Hospitalar ou Pessoal, Associados a Incidentes Adversos;2
+Y75:Dispositivos (Aparelhos) Utilizados em Neurologia, Associados a Incidentes Adversos;1
+Y76:Dispositivos (Aparelhos) Utilizados em Obstetricia e em Ginecologia, Associados a Incidentes Adversos;1
+Y77:Dispositivos (Aparelhos) Utilizados em Oftalmologia, Associados a Incidentes Adversos;0
+Y78:Dispositivos (Aparelhos) Utilizados em Radiologia, Associados a Incidentes Adversos;0
+Y79:Dispositivos (Aparelhos) Ortopedicos, Associado a Incidentes Adversos;9
+Y80:Dispositivos (Aparelhos) Utilizados em Medicina Fisica (Fisiatria), Associado a Incidentes Adversos;0
+Y81:Dispositivos (Aparelhos) Utilizados em Cirurgia Geral ou Cirurgia Plastica, Associados a Incidente Adversos;34
+Y82:Outros Dispositivos (Aparelhos) Associados a Incidentes Adversos e Os Nao Especificados;2
+Y83:Reacao Anormal em Paciente ou Complicacao Tardia, Causadas por Intervencao Cirurgica e por Outros Atos Cirurgicos, sem Mencao de Acidente Durante a In;655
+Y84:Reacao Anormal em Paciente ou Complicacao Tardia, Causadas por Outros Procedimentos Medicos, sem Mencao de Acidente Durante O Procedimento;81
+Y85:Sequelas de Acidentes de Transporte;22
+Y86:Sequelas de Outros Acidentes;34
+Y87:Sequelas de Uma Lesao Autoprovocada Intencionalmente, de Agressao ou de Um Fato Cuja Intencao e Indeterminada;4
+Y88:Sequelas de Cuidado Medico ou Cirurgico Considerados Como Uma Causa Externa;172
+Y89:Sequelas de Outras Causas Externas;83
+Y90:Evidencia de Alcoolismo Determinada por Taxas de Alcoolemia;5
+Y91:Evidencia de Alcoolismo Determinada Pelo Nivel da Intoxicacao;9
+Y95:Circunstancia Relativa as Condicoes Nosocomiais (Hospitalares);0
+Y96:Circunstancia Relativa as Condicoes de Trabalho;1
+Y97:Circunstancias Relativas a Condicoes de Poluicao Ambiental;0
+Y98:Circunstancias Relativas a Condicoes do Modo de Vida;1
+Capítulo XXI: Fatores que influenciam o estado de saúde e o contato com os servicos de saúde (Z00-Z99);22421
+Z00:Exame Geral e Investigacao de Pessoas sem Queixas ou Diagnostico Relatado;234
+Z01:Outros Exames e Investigacoes Especiais de Pessoas sem Queixa ou Diagnostico Relatado;4
+Z02:Exame Medico e Consulta com Finalidades Administrativas;529
+Z03:Observacao e Avaliacao Medica por Doencas e Afeccoes Suspeitas;7951
+Z04:Exame e Observacao por Outras Razoes;114
+Z08:Exame de Seguimento Apos Tratamento por Neoplasia Maligna;8
+Z09:Exame de Seguimento Apos Tratamento de Outras Afeccoes Que Nao Neoplasias Malignas;73
+Z10:Exame Geral de Rotina ( Check Up ) de Uma Subpopulacao Definida;21
+Z11:Exame Especial de Rastreamento ( Screening ) de Doencas Infecciosas e Parasitarias;1
+Z12:Exame Especial de Rastreamento ( Screening ) de Neoplasias;0
+Z13:Exame Especial de Rastreamento ( Screening ) de Outros Transtornos e Doencas;0
+Z20:Contato com e Exposicao a Doencas Transmissiveis;5
+Z21:Estado de Infeccao Assintomatica Pelo Virus da Imunodeficiencia Humana [Hiv];31
+Z22:Portador de Doenca Infecciosa;16
+Z23:Necessidade de Imunizacao Contra Uma Unica Doenca Bacteriana;0
+Z24:Necessidade de Imunizacao Contra Algumas Doencas Virais Unicas;2
+Z25:Necessidade de Imunizacao Contra Outras Doencas Virais Unicas;0
+Z26:Necessidade de Imunizacao Contra Outras Doencas Infecciosas Unicas;0
+Z27:Necessidade de Imunizacao Associada Contra Combinacoes de Doencas Infecciosas;0
+Z28:Imunizacao Nao Realizada;0
+Z29:Necessidade de Outras Medidas Profilaticas;2
+Z30:Anticoncepcao;4720
+Z31:Medidas de Procriacao;31
+Z32:Exame ou Teste de Gravidez;671
+Z33:Gravidez Como Achado Casual;114
+Z34:Supervisao de Gravidez Normal;31
+Z35:Supervisao de Gravidez de Alto Risco;97
+Z36:Rastreamento ( Screening ) Pre-Natal;72
+Z37:Resultado do Parto;0
+Z38:Nascidos Vivos [Nado-Vivos] Segundo O Local de Nascimento;0
+Z39:Assistencia e Exame Pos-Natal;13
+Z40:Cirurgia Profilatica;168
+Z41:Procedimentos para Outros Propositos Exceto Cuidados de Saude;485
+Z42:Seguimento Envolvendo Cirurgia Plastica;11
+Z43:Atencao a Orificios Artificiais;11
+Z44:Colocacao e Ajustamento de Aparelhos de Protese Externa;52
+Z45:Ajustamento e Manuseio de Dispositivo Implantado;26
+Z46:Colocacao e Ajustamento de Outros Aparelhos;8
+Z47:Outros Cuidados de Seguimento Ortopedico;301
+Z48:Outro Seguimento Cirurgico;581
+Z49:Cuidados Envolvendo Dialise;3
+Z50:Cuidados Envolvendo O Uso de Procedimentos de Reabilitacao;44
+Z51:Outros Cuidados Medicos;63
+Z52:Doadores de Orgaos e Tecidos;361
+Z53:Pessoas em Contato com Servicos de Saude para Procedimentos Especificos Nao Realizados;16
+Z54:Convalescenca;48
+Z55:Problemas Relacionados com a Educacao e com a Alfabetizacao;0
+Z56:Problemas Relacionados com O Emprego e com O Desemprego;297
+Z57:Exposicao Ocupacional a Fatores de Risco;25
+Z58:Problemas Relacionados com O Ambiente Fisico;1
+Z59:Problemas Relacionados com a Habitacao e com as Condicoes Economicas;9
+Z60:Problemas Relacionados com O Meio Social;10
+Z61:Problemas Relacionados com Eventos Negativos de Vida na Infancia;3
+Z62:Outros Problemas Relacionados com a Educacao da Crianca;2
+Z63:Outros Problemas Relacionados com O Grupo Primario de Apoio, Inclusive com a Situacao Familiar;22
+Z64:Problemas Relacionados com Algumas Outras Circuntancias Psicossociais;20
+Z65:Problemas Relacionados com Outras Circunstancias Psicossociais;22
+Z70:Aconselhamento Relativo as Atitudes, Comportamento e Orientacao em Materia de Sexualidade;0
+Z71:Pessoas em Contato com Os Servicos de Saude para Outros Aconselhamentos e Conselho Medico, Nao Classificados em Outra Parte;2
+Z72:Problemas Relacionados com O Estilo de Vida;185
+Z73:Problemas Relacionados com a Organizacao de Seu Modo de Vida;196
+Z74:Problemas Relacionados com a Dependencia de Uma Pessoa Que Oferece Cuidados de Saude;7
+Z75:Problemas Relacionados com as Facilidades Medicas e Outros Cuidados de Saude;14
+Z76:Pessoas em Contato com Os Servicos de Saude em Outras Circunstancias;47
+Z80:Historia Familiar de Neoplasia Maligna;11
+Z81:Historia Familiar de Transtornos Mentais e Comportamentais;0
+Z82:Historia Familiar de Algumas Incapacidades e Doencas Cronicas Que Conduzem a Incapacitacao;1
+Z83:Historia Familiar de Outros Transtornos Especificos;0
+Z84:Historia Familiar de Outras Afeccoes;1
+Z85:Historia Pessoal de Neoplasia Maligna;20
+Z86:Historia Pessoal de Algumas Outras Doencas;20
+Z87:Historia Pessoal de Outras Doencas e Afeccoes;13
+Z88:Historia Pessoal de Alergia a Drogas, Medicamentos e a Substancias Biologicas;0
+Z89:Ausencia Adquirida de Membros;9
+Z90:Ausencia Adquirida de Orgaos Nao Classificados em Outra Parte;24
+Z91:Historia Pessoal de Fatores de Risco, Nao Classificados em Outra Parte;0
+Z92:Historia Pessoal de Tratamento Medico;2
+Z93:Orificios Artificiais;167
+Z94:Orgaos e Tecidos Transplantados;677
+Z95:Presenca de Implantes e Enxertos Cardiacos e Vasculares;155
+Z96:Presenca de Outros Implantes Funcionais;70
+Z97:Presenca de Outros Dispositivos Proteticos;16
+Z98:Outros Estados Pos-Cirurgicos;3444
+Z99:Dependencia de Maquinas e Dispositivos Capacitantes, Nao Classificados em Outra Parte;11
+{ñ class};0
+990:Nao Informada;0
+999:Ignorada;97502
